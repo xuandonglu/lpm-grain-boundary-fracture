@@ -1,0 +1,33 @@
+# Ikeda et al. (1999), Journal of the Japan Institute of Metals 63, 179-186, Fig. 5. DOI:10.2320/jinstmet1952.63.2_179.
+# Grain-boundary energy digitized from the published figure; units are indicated in the CSV column names.
+kind,phi_deg,value
+calc_J_m2,7.9,1.57
+calc_J_m2,12.2,1.88
+calc_J_m2,16.0,1.93
+calc_J_m2,18.4,1.89
+calc_J_m2,22.0,1.88
+calc_J_m2,27.7,1.96
+calc_J_m2,31.6,2.00
+calc_J_m2,36.6,1.62
+calc_J_m2,39.8,2.03
+calc_J_m2,43.3,2.20
+calc_J_m2,46.3,2.23
+calc_J_m2,50.5,1.96
+calc_J_m2,52.8,1.69
+calc_J_m2,57.7,1.90
+calc_J_m2,61.6,2.05
+calc_J_m2,67.1,1.90
+calc_J_m2,70.1,1.97
+calc_J_m2,73.6,1.76
+calc_J_m2,77.3,1.48
+rel_meas,2,0.050
+rel_meas,9,0.070
+rel_meas,16,0.076
+rel_meas,22,0.076
+rel_meas,28,0.078
+rel_meas,36,0.064
+rel_meas,40,0.085
+rel_meas,46,0.086
+rel_meas,54,0.073
+rel_meas,64,0.077
+rel_meas,71,0.075

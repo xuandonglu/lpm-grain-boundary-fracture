@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-25",
+  "manuscript_sha256": "430c0a7918a293d20895e4faac8208f0ec7a69e00bb0609fd0a26013573ad1d5",
+  "archived_data_checks": 123,
+  "archived_data_checks_passed": true,
+  "unit_tests": 3,
+  "moment_error": 1.3322676295501878e-15,
+  "native_check": {
+    "particles": 4800,
+    "half_bonds": 64580,
+    "tangent_relative_error": 2.564e-10,
+    "gradient_relative_error": 1.16e-10
+  },
+  "small_model_original_exporter_binary_sha256": "8d0cd5b5eff8afe6236c54e9960fa65dd46c83b0b6ea054d93f4d944ca9f1746",
+  "model_comparisons": {
+    "bicrystal_merging": {
+      "equivalent": true,
+      "maximum_field_difference": 0.0,
+      "canonical_key": [
+        "owner",
+        "support",
+        "shell"
+      ]
+    },
+    "multigrain_merging": {
+      "equivalent": true,
+      "maximum_field_difference": 2.220446049250313e-15,
+      "canonical_key": [
+        "owner",
+        "support",
+        "shell"
+      ]
+    }
+  },
+  "public_model_comparisons": {
+    "bicrystal_ghost": {
+      "equivalent": true,
+      "maximum_difference": 6.938893903907228e-18
+    },
+    "fe_si_tilt_3_ghost": {
+      "equivalent": true,
+      "maximum_difference": 6.938893903907228e-18
+    },
+    "mismatch_rejected": true,
+    "archived_checks": 123,
+    "archived_checks_passed": true
+  },
+  "mo_restored_max_field_difference": 0.0,
+  "planar_smoke_events": 8,
+  "large_simulations_rerun": false,
+  "cohesive_runs": 105,
+  "bond_softening_runs": 36,
+  "manuscript_tables": 14,
+  "reference_panels": 35,
+  "initial_stencil_templates": 10
+}

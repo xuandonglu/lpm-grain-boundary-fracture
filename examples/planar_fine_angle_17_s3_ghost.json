@@ -1,0 +1,12 @@
+{
+  "method": "ghost",
+  "width": 128.0,
+  "grains": 16,
+  "seed": 3,
+  "angle_deg": 17,
+  "notch_length": 24.0,
+  "softening_ratio": 10.0,
+  "softening_stages": 6,
+  "weight_damping": 0.03,
+  "max_events": 4000
+}

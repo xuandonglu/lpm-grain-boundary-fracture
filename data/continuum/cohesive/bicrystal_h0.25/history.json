@@ -1,0 +1,338 @@
+[
+  {
+    "front": 12.5,
+    "center": [
+      12.0,
+      -0.25
+    ],
+    "lam": 1.0155661573399681,
+    "interface_residual": 6.017408793468348e-14,
+    "bulk_free_residual": 3.801403636316536e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 5,
+    "min_controlled_tangent_eigenvalue": 3.924921501424019,
+    "cohesive_energy": 1.8481935917276202
+  },
+  {
+    "front": 13.0,
+    "center": [
+      12.5,
+      -0.25
+    ],
+    "lam": 1.0490826957161483,
+    "interface_residual": 2.681718180852499e-10,
+    "bulk_free_residual": 4.192202140984591e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.895340822084121,
+    "cohesive_energy": 2.6061263312018204
+  },
+  {
+    "front": 13.5,
+    "center": [
+      13.0,
+      -0.25
+    ],
+    "lam": 1.0643517583431668,
+    "interface_residual": 2.022779721500001e-10,
+    "bulk_free_residual": 4.440892098500626e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.8678313526001924,
+    "cohesive_energy": 3.383368832292889
+  },
+  {
+    "front": 14.0,
+    "center": [
+      13.5,
+      -0.25
+    ],
+    "lam": 1.0714227249506183,
+    "interface_residual": 1.855936515582357e-10,
+    "bulk_free_residual": 3.979039320256561e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.8447169201834446,
+    "cohesive_energy": 4.1784688944275565
+  },
+  {
+    "front": 14.5,
+    "center": [
+      14.0,
+      -0.25
+    ],
+    "lam": 1.0744399512225506,
+    "interface_residual": 1.7986867550945362e-10,
+    "bulk_free_residual": 4.050093593832571e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.8267140421457597,
+    "cohesive_energy": 4.986699472458381
+  },
+  {
+    "front": 15.0,
+    "center": [
+      14.5,
+      -0.25
+    ],
+    "lam": 1.0753781127616489,
+    "interface_residual": 1.778636127269806e-10,
+    "bulk_free_residual": 4.760636329592671e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.8135338371550067,
+    "cohesive_energy": 5.804187154833424
+  },
+  {
+    "front": 15.5,
+    "center": [
+      15.0,
+      -0.25
+    ],
+    "lam": 1.0752464342713721,
+    "interface_residual": 1.7736634383425098e-10,
+    "bulk_free_residual": 4.476419235288631e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.804420589832149,
+    "cohesive_energy": 6.628166243254596
+  },
+  {
+    "front": 16.0,
+    "center": [
+      15.5,
+      -0.25
+    ],
+    "lam": 1.074581673080458,
+    "interface_residual": 1.775327662656423e-10,
+    "bulk_free_residual": 4.725109192804666e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.7985078883917156,
+    "cohesive_energy": 7.456724862588201
+  },
+  {
+    "front": 16.5,
+    "center": [
+      16.0,
+      -0.25
+    ],
+    "lam": 1.0736755466882064,
+    "interface_residual": 1.7798373885824503e-10,
+    "bulk_free_residual": 4.192202140984591e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.7949996401368926,
+    "cohesive_energy": 8.28854595624899
+  },
+  {
+    "front": 17.0,
+    "center": [
+      16.5,
+      -0.25
+    ],
+    "lam": 1.072687603095304,
+    "interface_residual": 1.7854762113245215e-10,
+    "bulk_free_residual": 5.258016244624741e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.7932361407693698,
+    "cohesive_energy": 9.12271586175541
+  },
+  {
+    "front": 17.5,
+    "center": [
+      17.0,
+      -0.25
+    ],
+    "lam": 1.071704128419091,
+    "interface_residual": 1.7913026617577543e-10,
+    "bulk_free_residual": 4.725109192804666e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.7927008796143404,
+    "cohesive_energy": 9.958593739367936
+  },
+  {
+    "front": 18.0,
+    "center": [
+      17.5,
+      -0.25
+    ],
+    "lam": 1.0707700639425197,
+    "interface_residual": 1.7969270516005054e-10,
+    "bulk_free_residual": 5.009326287108706e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.793003033111603,
+    "cohesive_energy": 10.795724526367843
+  },
+  {
+    "front": 18.5,
+    "center": [
+      18.0,
+      -0.25
+    ],
+    "lam": 1.0699068064794133,
+    "interface_residual": 1.8021450998162436e-10,
+    "bulk_free_residual": 6.252776074688882e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.7938534500691024,
+    "cohesive_energy": 11.633781031481927
+  },
+  {
+    "front": 19.0,
+    "center": [
+      18.5,
+      -0.25
+    ],
+    "lam": 1.06912235960977,
+    "interface_residual": 1.8068613272248513e-10,
+    "bulk_free_residual": 5.222489107836736e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.795041766738202,
+    "cohesive_energy": 12.472525154800362
+  },
+  {
+    "front": 19.5,
+    "center": [
+      19.0,
+      -0.25
+    ],
+    "lam": 1.0684172185872676,
+    "interface_residual": 1.811050198696762e-10,
+    "bulk_free_residual": 5.151434834260726e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.7964172139600443,
+    "cohesive_energy": 13.31178163887372
+  },
+  {
+    "front": 20.0,
+    "center": [
+      19.5,
+      -0.25
+    ],
+    "lam": 1.0677878181711342,
+    "interface_residual": 1.8147561231529608e-10,
+    "bulk_free_residual": 5.755396159656812e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.797873458195853,
+    "cohesive_energy": 14.151420083426503
+  },
+  {
+    "front": 20.5,
+    "center": [
+      20.0,
+      -0.25
+    ],
+    "lam": 1.0672285609036176,
+    "interface_residual": 1.8179913130467185e-10,
+    "bulk_free_residual": 5.471179065352771e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.7993369952951914,
+    "cohesive_energy": 14.991342465518612
+  },
+  {
+    "front": 21.0,
+    "center": [
+      20.5,
+      -0.25
+    ],
+    "lam": 1.0667330057242974,
+    "interface_residual": 1.8207935159608724e-10,
+    "bulk_free_residual": 5.897504706808832e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.800758409938285,
+    "cohesive_energy": 15.831474371407603
+  },
+  {
+    "front": 21.5,
+    "center": [
+      21.0,
+      -0.25
+    ],
+    "lam": 1.0662945543500975,
+    "interface_residual": 1.8232126919315306e-10,
+    "bulk_free_residual": 6.394884621840902e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.802105849427859,
+    "cohesive_energy": 16.671758761975514
+  },
+  {
+    "front": 22.0,
+    "center": [
+      21.5,
+      -0.25
+    ],
+    "lam": 1.0659068352584904,
+    "interface_residual": 1.8252999112178259e-10,
+    "bulk_free_residual": 6.323830348264892e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.8033601713121232,
+    "cohesive_energy": 17.51215148888534
+  },
+  {
+    "front": 22.5,
+    "center": [
+      22.0,
+      -0.25
+    ],
+    "lam": 1.0655639053666728,
+    "interface_residual": 1.8270918111795709e-10,
+    "bulk_free_residual": 6.181721801112872e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.8045113426251405,
+    "cohesive_energy": 18.35261803487502
+  },
+  {
+    "front": 23.0,
+    "center": [
+      22.5,
+      -0.25
+    ],
+    "lam": 1.0652603424199532,
+    "interface_residual": 1.8286383518528737e-10,
+    "bulk_free_residual": 6.608047442568932e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.8055557708794403,
+    "cohesive_energy": 19.193131119561986
+  },
+  {
+    "front": 23.5,
+    "center": [
+      23.0,
+      -0.25
+    ],
+    "lam": 1.064991272861355,
+    "interface_residual": 1.8299295412305128e-10,
+    "bulk_free_residual": 7.176481631177012e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.806494328191172,
+    "cohesive_energy": 20.033668923546614
+  },
+  {
+    "front": 24.0,
+    "center": [
+      23.5,
+      -0.25
+    ],
+    "lam": 1.0647523627845779,
+    "interface_residual": 1.8310475358163103e-10,
+    "bulk_free_residual": 6.679101716144942e-13,
+    "opening_control": 0.17890429009771336,
+    "iterations": 4,
+    "min_controlled_tangent_eigenvalue": 3.8073308917302775,
+    "cohesive_energy": 20.874213758400295
+  }
+]

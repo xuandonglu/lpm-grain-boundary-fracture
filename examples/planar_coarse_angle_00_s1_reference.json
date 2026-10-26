@@ -1,0 +1,12 @@
+{
+  "method": "reference",
+  "width": 64.0,
+  "grains": 16,
+  "seed": 1,
+  "angle_deg": 0,
+  "notch_length": 12.0,
+  "softening_ratio": 10.0,
+  "softening_stages": 6,
+  "weight_damping": 0.03,
+  "max_events": 4000
+}

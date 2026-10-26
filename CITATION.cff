@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and the original experimental sources when using these materials."
+type: software
+title: "Rotated-grain lattice particle models for cohesive fracture"
+version: 0.1.0
+repository-code: "https://github.com/xuandonglu/lpm-grain-boundary-fracture"
+authors:
+  - family-names: Lu
+    given-names: Xuandong
+  - family-names: Liu
+    given-names: Yongming
+preferred-citation:
+  type: unpublished
+  title: "Grain-lattice junction artifacts in polycrystal fracture and a crack-aware coupling"
+  authors:
+    - family-names: Lu
+      given-names: Xuandong
+    - family-names: Liu
+      given-names: Yongming
+  year: 2026
+  notes: "Unpublished manuscript; bibliographic status should be updated when available."
+

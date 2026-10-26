@@ -1,0 +1,466 @@
+{
+  "single": {
+    "5": {
+      "tag": "sc13r_e18",
+      "init": 1.045,
+      "cross": 1.195,
+      "ratio": 1.1435406698564594,
+      "tip": 26.25,
+      "done": true,
+      "B_levels": {
+        "0": 285
+      }
+    },
+    "13": {
+      "tag": "sc13rZ13_e19ct1",
+      "init": 1.045,
+      "cross": 1.19325,
+      "ratio": 1.141866028708134,
+      "tip": 26.25,
+      "done": true,
+      "B_levels": {
+        "0": 741
+      }
+    },
+    "17": {
+      "tag": "sc13rZ17_e19ct1",
+      "init": 1.045,
+      "cross": 1.196617,
+      "ratio": 1.1450880382775122,
+      "tip": 26.25,
+      "done": true,
+      "B_levels": {
+        "0": 969
+      }
+    }
+  },
+  "transparent": {
+    "coupling": {
+      "5": {
+        "tag": "shRW1_e19cm025",
+        "init": 1.045,
+        "cross": 1.2083,
+        "ratio": 1.1562679425837321,
+        "tip": 30.62,
+        "done": true,
+        "B_levels": {
+          "-1": 335,
+          "0": 91,
+          "1": 4
+        }
+      },
+      "13": {
+        "tag": "shRWZ13_e19cm025",
+        "init": 1.045,
+        "cross": 1.203447,
+        "ratio": 1.151623923444976,
+        "tip": 26.12,
+        "done": true,
+        "B_levels": {
+          "-1": 624,
+          "0": 117
+        }
+      },
+      "17": {
+        "tag": "shRWZ17_e19cm025",
+        "init": 1.045,
+        "cross": 1.200764,
+        "ratio": 1.1490564593301436,
+        "tip": 26.12,
+        "done": true,
+        "B_levels": {
+          "-1": 816,
+          "0": 153
+        }
+      }
+    },
+    "merged, energy-matched": {
+      "5": {
+        "tag": "shRm1_e19",
+        "init": 1.035,
+        "cross": 1.9786,
+        "ratio": 1.9116908212560386,
+        "tip": 42.12,
+        "done": true,
+        "B_levels": {
+          "-15": 10,
+          "-14": 365,
+          "-13": 198,
+          "-12": 209,
+          "-11": 42,
+          "-10": 15,
+          "-9": 10,
+          "-8": 15,
+          "-7": 10,
+          "-6": 15,
+          "-5": 10,
+          "-4": 15,
+          "-3": 10,
+          "-2": 15
+        }
+      },
+      "13": null,
+      "17": null
+    }
+  },
+  "cases": [
+    {
+      "case": "tilt 3",
+      "psi": 3.0,
+      "phi": 0.0,
+      "Lz": 5,
+      "qa_samples": [
+        {
+          "sample": 11,
+          "tilt": 3.0,
+          "twist": 3.0,
+          "KGB_over_KA": 1.036
+        }
+      ],
+      "coupling": {
+        "tag": "tlq3W_e19cm025",
+        "init": 1.045,
+        "cross": 1.235,
+        "ratio": 1.181818181818182,
+        "tip": 27.777,
+        "done": true,
+        "B_levels": {
+          "-1": 10,
+          "0": 185,
+          "1": 145
+        },
+        "rel_single": 1.0334728033472804,
+        "rel_transparent": 1.0220971613010017
+      },
+      "merged, energy-matched": {
+        "tag": "tlq3m_e19",
+        "init": 1.065,
+        "cross": 2.0578,
+        "ratio": 1.9322065727699531,
+        "tip": 42.022,
+        "done": true,
+        "B_levels": {
+          "-9": 10,
+          "3": 15,
+          "4": 10,
+          "5": 15,
+          "6": 10,
+          "7": 11,
+          "8": 2,
+          "9": 15,
+          "10": 10,
+          "11": 30,
+          "12": 25,
+          "13": 270,
+          "14": 450,
+          "15": 36
+        },
+        "rel_single": 1.6896701828825111,
+        "rel_transparent": 1.0107317309293953
+      }
+    },
+    {
+      "case": "tilt 8",
+      "psi": 8.0,
+      "phi": 0.0,
+      "Lz": 5,
+      "qa_samples": [
+        {
+          "sample": 7,
+          "tilt": 8.0,
+          "twist": 4.0,
+          "KGB_over_KA": 1.042
+        }
+      ],
+      "coupling": {
+        "tag": "tlq8W_e19cm025",
+        "init": 1.045,
+        "cross": 1.235,
+        "ratio": 1.181818181818182,
+        "tip": 26.516,
+        "done": true,
+        "B_levels": {
+          "-1": 25,
+          "0": 240,
+          "1": 40
+        },
+        "rel_single": 1.0334728033472804,
+        "rel_transparent": 1.0220971613010017
+      },
+      "merged, energy-matched": {
+        "tag": "tlq8m_e19",
+        "init": 1.025,
+        "cross": 2.0535,
+        "ratio": 2.003414634146342,
+        "tip": 42.136,
+        "done": true,
+        "B_levels": {
+          "-13": 10,
+          "-12": 100,
+          "-11": 116,
+          "-10": 224,
+          "-9": 297,
+          "-8": 60,
+          "-7": 11,
+          "-6": 10
+        },
+        "rel_single": 1.7519399938769264,
+        "rel_transparent": 1.0479804641369979
+      }
+    },
+    {
+      "case": "tilt 12",
+      "psi": 12.0,
+      "phi": 0.0,
+      "Lz": 5,
+      "qa_samples": [
+        {
+          "sample": 2,
+          "tilt": 12.0,
+          "twist": 3.0,
+          "KGB_over_KA": 1.049
+        }
+      ],
+      "coupling": {
+        "tag": "tlq12W_e19cm025",
+        "init": 1.045,
+        "cross": 1.181816,
+        "ratio": 1.1309244019138756,
+        "tip": 26.487,
+        "done": true,
+        "B_levels": {
+          "-2": 15,
+          "-1": 215,
+          "0": 65
+        },
+        "rel_single": 0.9889673640167362,
+        "rel_transparent": 0.9780816022510965
+      },
+      "merged, energy-matched": {
+        "tag": "tlq12m_e19",
+        "init": 1.025,
+        "cross": 2.1637,
+        "ratio": 2.110926829268293,
+        "tip": 42.095,
+        "done": true,
+        "B_levels": {
+          "-9": 11,
+          "-8": 63,
+          "-7": 164,
+          "-6": 160,
+          "-5": 298,
+          "-4": 161,
+          "1": 10,
+          "6": 10
+        },
+        "rel_single": 1.8459569343810593,
+        "rel_transparent": 1.10421978585499
+      }
+    },
+    {
+      "case": "Sigma13 tilt 22.6",
+      "psi": 22.62,
+      "phi": 0.0,
+      "Lz": 5,
+      "qa_samples": [],
+      "coupling": {
+        "tag": "tl13rW_e19cm025",
+        "init": 1.05,
+        "cross": 1.1933,
+        "ratio": 1.1364761904761904,
+        "tip": 27.75,
+        "done": true,
+        "B_levels": {
+          "0": 30,
+          "1": 40,
+          "2": 45,
+          "3": 35,
+          "4": 40,
+          "5": 35,
+          "6": 45,
+          "7": 40,
+          "8": 30,
+          "9": 20
+        },
+        "rel_single": 0.993822275353656,
+        "rel_transparent": 0.9828830746069841
+      },
+      "merged, energy-matched": null
+    },
+    {
+      "case": "Sigma17 tilt 28.1",
+      "psi": 28.07,
+      "phi": 0.0,
+      "Lz": 5,
+      "qa_samples": [
+        {
+          "sample": 16,
+          "tilt": 30.0,
+          "twist": 4.0,
+          "KGB_over_KA": 1.121
+        }
+      ],
+      "coupling": {
+        "tag": "tl17rW_e19cm025",
+        "init": 1.045,
+        "cross": 1.20835,
+        "ratio": 1.1563157894736844,
+        "tip": 26.132,
+        "done": true,
+        "B_levels": {
+          "1": 5,
+          "2": 15,
+          "3": 40,
+          "4": 30,
+          "5": 30,
+          "6": 35,
+          "7": 30,
+          "8": 30,
+          "9": 30,
+          "10": 30,
+          "11": 35,
+          "12": 10
+        },
+        "rel_single": 1.0111715481171548,
+        "rel_transparent": 1.0000413804518746
+      },
+      "merged, energy-matched": {
+        "tag": "tl17rm_e19",
+        "init": 1.03,
+        "cross": 1.52365,
+        "ratio": 1.479271844660194,
+        "tip": 40.632,
+        "done": true,
+        "B_levels": {
+          "-3": 5,
+          "-2": 30,
+          "-1": 40,
+          "0": 30,
+          "1": 30,
+          "2": 30,
+          "3": 30,
+          "4": 35,
+          "5": 30,
+          "6": 30,
+          "7": 40,
+          "8": 30,
+          "9": 30,
+          "10": 35,
+          "11": 30,
+          "12": 65,
+          "13": 74,
+          "14": 90,
+          "15": 84,
+          "16": 18
+        },
+        "rel_single": 1.2935891863346465,
+        "rel_transparent": 0.7738028703241184
+      }
+    },
+    {
+      "case": "Sigma5 tilt 36.9",
+      "psi": 36.87,
+      "phi": 0.0,
+      "Lz": 5,
+      "qa_samples": [],
+      "coupling": null,
+      "merged, energy-matched": null
+    },
+    {
+      "case": "Sigma13 twist 22.6",
+      "psi": 0.0,
+      "phi": 22.62,
+      "Lz": 13,
+      "qa_samples": [],
+      "coupling": {
+        "tag": "tw13rW_e19cm025",
+        "init": 1.045,
+        "cross": 1.2236,
+        "ratio": 1.170909090909091,
+        "tip": 26.25,
+        "done": true,
+        "B_levels": {
+          "-1": 44,
+          "0": 464,
+          "1": 212
+        },
+        "rel_single": 1.025434737062644,
+        "rel_transparent": 1.0167460635989787
+      },
+      "merged, energy-matched": {
+        "tag": "tw13rm_e19",
+        "init": 1.04,
+        "cross": null,
+        "ratio": null,
+        "tip": 16.25,
+        "done": true,
+        "B_levels": null,
+        "rel_single": null,
+        "rel_transparent": null
+      }
+    },
+    {
+      "case": "Sigma17 twist 28.1",
+      "psi": 0.0,
+      "phi": 28.07,
+      "Lz": 17,
+      "qa_samples": [],
+      "coupling": {
+        "tag": "tw17rW_e19cm025",
+        "init": 1.045,
+        "cross": 1.227688,
+        "ratio": 1.174821052631579,
+        "tip": 26.25,
+        "done": true,
+        "B_levels": {
+          "-1": 114,
+          "0": 699,
+          "1": 114
+        },
+        "rel_single": 1.0259657016405415,
+        "rel_transparent": 1.0224223910776806
+      },
+      "merged, energy-matched": null
+    },
+    {
+      "case": "Sigma5 twist 36.9",
+      "psi": 0.0,
+      "phi": 36.87,
+      "Lz": 5,
+      "qa_samples": [],
+      "coupling": {
+        "tag": "tw5rW_e19cm025",
+        "init": 1.045,
+        "cross": 1.241716,
+        "ratio": 1.1882449760765552,
+        "tip": 26.25,
+        "done": true,
+        "B_levels": {
+          "-1": 28,
+          "0": 207,
+          "1": 28
+        },
+        "rel_single": 1.0390928870292888,
+        "rel_transparent": 1.027655383596789
+      },
+      "merged, energy-matched": {
+        "tag": "tw5rm_e19",
+        "init": 1.04,
+        "cross": 1.54335,
+        "ratio": 1.4839903846153846,
+        "tip": 41.25,
+        "done": true,
+        "B_levels": {
+          "-4": 1,
+          "-3": 103,
+          "-2": 440,
+          "-1": 310,
+          "0": 66,
+          "1": 1
+        },
+        "rel_single": 1.2977154409398133,
+        "rel_transparent": 0.7762711250767831
+      }
+    }
+  ]
+}

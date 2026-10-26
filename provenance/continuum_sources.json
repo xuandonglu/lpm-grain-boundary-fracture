@@ -1,0 +1,30 @@
+[
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/paperb_independent_20261021/material_and_fem.py",
+    "source_sha256": "8d1874eca1114a025b96e0961ee67a5e44679f943ef5ece9d8f3fb4213dbeae5",
+    "destination": "src/lpm_fracture/continuum/finite_elements.py",
+    "change": "Relative imports and archive-based input/output paths; numerical kernels retained. Text line endings normalized to LF for Git portability.",
+    "destination_sha256": "d01dba1ce6640b1e4a0ec5e88937ec5012cf949dd4e85f279826be779df622a7"
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/paperb_independent_20261021/cohesive_reference.py",
+    "source_sha256": "acfb477ec187eda2c508892883d4c21837c2d4c9fec05a3447d6bec12fd26d48",
+    "destination": "src/lpm_fracture/continuum/cohesive_reference.py",
+    "change": "Relative imports and archive-based input/output paths; numerical kernels retained. Text line endings normalized to LF for Git portability.",
+    "destination_sha256": "666eeb897f906eb5c60bc333d4408f6137e82b2cd72c384fc284d1d2806f1673"
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/paperb_independent_20261021/griffith_reference.py",
+    "source_sha256": "5f55b7f1fb58e56cd9945a3846b3adbed524615030889d8673465667dd554b42",
+    "destination": "src/lpm_fracture/continuum/griffith_reference.py",
+    "change": "Relative imports and archive-based input/output paths; numerical kernels retained. Text line endings normalized to LF for Git portability.",
+    "destination_sha256": "dfbaca230092f9e73e7f78bc3033160c7621d8c608b589f92e86f6d4c97d8db6"
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/paperb_independent_20261021/verify_griffith.py",
+    "source_sha256": "b1598d783a6313f100836853830fb010351e3ab49f77b1c767355737417e9952",
+    "destination": "src/lpm_fracture/continuum/verify_griffith.py",
+    "change": "Relative imports and archive-based input/output paths; numerical kernels retained. Text line endings normalized to LF for Git portability.",
+    "destination_sha256": "5a40f2c2417e925c32b0b47f1db55c131007a93231feb986aae13045033d9635"
+  }
+]

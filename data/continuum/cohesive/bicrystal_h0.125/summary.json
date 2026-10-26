@@ -1,0 +1,49 @@
+{
+  "case": "bicrystal",
+  "h": 0.125,
+  "wall_seconds": 7.146225499920547,
+  "rows": 24,
+  "lambda_min": 1.0159376815646495,
+  "lambda_max": 1.0754398762088684,
+  "material": {
+    "C_GPa": [
+      [
+        250.7,
+        123.8,
+        0.0
+      ],
+      [
+        123.8,
+        250.7,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        98.7
+      ]
+    ],
+    "opening_scales_h": [
+      0.029368664354837284,
+      0.09623665650803509
+    ],
+    "Kn": [
+      74.025,
+      31.724999999999998
+    ],
+    "T": 1.3446428571428568,
+    "shell_energies": [
+      0.1276958559283887,
+      0.5876417978433991
+    ],
+    "G100_GPa_h": 1.6860670194003529,
+    "G110_GPa_h": 2.023280423280424,
+    "delta_peak_h": 0.06667879290093341,
+    "traction_peak_GPa": 8.023659444431079,
+    "delta_90_h": 0.3314037179131207,
+    "AT2_strength_matched_ell_h": 0.5236158302537024,
+    "definition": "Exact finite-opening rigid-slab normal potential, including the collective term; linear anisotropic continuum bulk; not a discrete lattice equilibrium."
+  },
+  "control": "opening-controlled equilibrium with tip-following K boundary",
+  "path_status": "straight cohesive plane prescribed: load comparison only"
+}

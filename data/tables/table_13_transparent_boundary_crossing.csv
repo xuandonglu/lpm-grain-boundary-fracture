@@ -1,0 +1,5 @@
+Construction,s0,s1,sq
+Owner-only force transfer; static support,1.479,1.333,>1.37
+Ghost coupling; static support,1.419,1.228,1.407
+One-sided; t = 0.25,1.142,1.147,1.137
+One-sided; t = 0.1,1.151,1.295,1.301

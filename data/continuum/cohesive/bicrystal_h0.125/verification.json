@@ -1,0 +1,9 @@
+{
+  "mesh_h": 0.125,
+  "elements": 43008,
+  "bulk_dofs": 87010,
+  "interface_dofs": 373,
+  "stiffness_symmetry": 8.076359727264749e-18,
+  "minimum_condensed_eigenvalue": 1.950416545836101,
+  "affine_energy_relative_error": 2.8757440873050655e-11
+}

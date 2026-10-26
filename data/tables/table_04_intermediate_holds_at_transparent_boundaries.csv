@@ -1,0 +1,8 @@
+Case,Ghost coupling: steps / excess,Energy-matched merging: steps / excess
+s1; h,0 / —,54 / +28%
+s2; h,0 / —,No main-crack growth
+s3; h,0 / —,88 / +51%
+s4; h,0 / —,283 / +116%; cap
+s1; h/2,14 / +5.7%,Not recomputed
+s2; h/2,0 / —,Not recomputed
+s3; h/2,11 / +8.4%,Not recomputed

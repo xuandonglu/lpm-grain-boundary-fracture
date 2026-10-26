@@ -1,0 +1,219 @@
+{
+  "reference": {
+    "tag": "sc13r_e18",
+    "init": 1.045,
+    "cross": 1.195,
+    "ratio": 1.1435406698564594,
+    "tip": 26.25,
+    "lam_max": 1.195,
+    "done": true,
+    "level": -0.004385964912280715,
+    "B_pairs": 285
+  },
+  "crossing": {
+    "coupling": [
+      {
+        "tag": "shRZW1_e19cm025",
+        "init": 1.045,
+        "cross": 1.2033,
+        "ratio": 1.1514832535885169,
+        "tip": 26.25,
+        "lam_max": 1.2033,
+        "done": true,
+        "level": -0.004385964912280715,
+        "B_pairs": 285
+      },
+      {
+        "tag": "shR0W1_e19cm025",
+        "init": 1.045,
+        "cross": 1.2033,
+        "ratio": 1.1514832535885169,
+        "tip": 26.12,
+        "lam_max": 1.2033,
+        "done": true,
+        "level": 0.004385964912280715,
+        "B_pairs": 285
+      },
+      {
+        "tag": "shRW1_e19cm025",
+        "init": 1.045,
+        "cross": 1.2083,
+        "ratio": 1.1562679425837321,
+        "tip": 30.62,
+        "lam_max": 1.2383,
+        "done": true,
+        "level": -0.3562790697674417,
+        "B_pairs": 430
+      },
+      {
+        "tag": "shRqW1_e19cm025",
+        "init": 1.045,
+        "cross": 1.191816,
+        "ratio": 1.1404937799043062,
+        "tip": 26.12,
+        "lam_max": 1.191816,
+        "done": true,
+        "level": 0.2543859649122807,
+        "B_pairs": 285
+      }
+    ],
+    "merged, plain (g = 1)": [
+      {
+        "tag": "shRnNZ_e19",
+        "init": 1.045,
+        "cross": 1.195,
+        "ratio": 1.1435406698564594,
+        "tip": 26.25,
+        "lam_max": 1.195,
+        "done": true,
+        "level": -0.004385964912280715,
+        "B_pairs": 285
+      },
+      {
+        "tag": "shRnN0_e19",
+        "init": 1.165,
+        "cross": null,
+        "ratio": null,
+        "tip": 15.5,
+        "lam_max": 2.5,
+        "done": true,
+        "level": null,
+        "B_pairs": null
+      },
+      {
+        "tag": "shRnN1_e19",
+        "init": 1.035,
+        "cross": 2.0586,
+        "ratio": 1.9889855072463771,
+        "tip": 42.12,
+        "lam_max": 2.0586,
+        "done": true,
+        "level": -7.343163771712159,
+        "B_pairs": 806
+      },
+      {
+        "tag": "shRnNq_e19",
+        "init": 1.015,
+        "cross": 2.44375,
+        "ratio": 2.407635467980296,
+        "tip": 42.12,
+        "lam_max": 2.44375,
+        "done": true,
+        "level": -7.607230392156863,
+        "B_pairs": 816
+      }
+    ],
+    "merged, energy-matched": [
+      {
+        "tag": "shRmZ_e19",
+        "init": 1.045,
+        "cross": 1.195,
+        "ratio": 1.1435406698564594,
+        "tip": 26.25,
+        "lam_max": 1.195,
+        "done": true,
+        "level": -0.004385964912280715,
+        "B_pairs": 285
+      },
+      null,
+      {
+        "tag": "shRm1_e19",
+        "init": 1.035,
+        "cross": 1.9786,
+        "ratio": 1.9116908212560386,
+        "tip": 42.12,
+        "lam_max": 1.9786,
+        "done": true,
+        "level": -6.092609158679446,
+        "B_pairs": 939
+      },
+      {
+        "tag": "shRmq_e19",
+        "init": 1.015,
+        "cross": 2.02375,
+        "ratio": 1.99384236453202,
+        "tip": 42.12,
+        "lam_max": 2.02375,
+        "done": true,
+        "level": 4.562568605927552,
+        "B_pairs": 911
+      }
+    ]
+  },
+  "parallel, junction 2 h above": {
+    "coupling": [
+      {
+        "tag": "spRW1_e19cm025",
+        "init": 1.05,
+        "cross": 1.205,
+        "ratio": 1.1476190476190475,
+        "tip": 26.25,
+        "lam_max": 1.205,
+        "done": true,
+        "level": -0.004385964912280715,
+        "B_pairs": 285
+      }
+    ],
+    "merged, plain (g = 1)": {
+      "tag": "spRnN_e19lo",
+      "start": 0.5,
+      "nsep_at_start": 0,
+      "init": 0.7,
+      "cross": 1.11,
+      "ratio": 1.5857142857142859,
+      "first_x": 14.684999999999999,
+      "first_y_rel": 2.055,
+      "tip_final": 41.685
+    },
+    "merged, energy-matched": [
+      {
+        "tag": "spRm_e19",
+        "init": 1.075,
+        "cross": 1.08,
+        "ratio": 1.0046511627906978,
+        "tip": 39.685,
+        "lam_max": 1.08,
+        "done": true,
+        "level": 2.055,
+        "B_pairs": 190
+      }
+    ]
+  },
+  "crack on the junction": {
+    "coupling": [
+      {
+        "tag": "sp0RW1_e19cm025",
+        "init": 0.985,
+        "cross": 1.185146,
+        "ratio": 1.2031939086294416,
+        "tip": 26.25,
+        "lam_max": 1.203245,
+        "done": true,
+        "level": -0.47985074626865676,
+        "B_pairs": 335
+      }
+    ],
+    "merged, plain (g = 1)": {
+      "tag": "sp0RnN_e19lo",
+      "start": 0.5,
+      "nsep_at_start": 0,
+      "init": 0.52,
+      "cross": 0.585,
+      "ratio": 1.125,
+      "first_x": 12.685,
+      "first_y_rel": 0.05499999999999999,
+      "tip_final": 38.685
+    },
+    "merged, energy-matched": {
+      "tag": "sp0Rm_e19lo",
+      "start": 0.5,
+      "nsep_at_start": 0,
+      "init": 0.815,
+      "cross": 0.935,
+      "ratio": 1.147239263803681,
+      "first_x": 12.685,
+      "first_y_rel": 0.05499999999999999,
+      "tip_final": 36.685
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "T25_s1": {
+    "single crystal": {
+      "tag": "pxtT25z_s1_naive_e19",
+      "stop": 2,
+      "lam_final": 1.198723,
+      "tip_final": [
+        64.454,
+        -19.321
+      ],
+      "holds": 1,
+      "episodes": [
+        {
+          "tip": [
+            63.1,
+            -18.8
+          ],
+          "steps": 1,
+          "lam_first": 1.193723,
+          "lam_max": 1.193723,
+          "grains": [
+            3,
+            10
+          ],
+          "dist_to_line": 2.5,
+          "seam_to_path_deg": 14.0
+        }
+      ],
+      "final_rel": 0.0
+    },
+    "coupling, mu 1e-1": {
+      "tag": "pxtT25Em1_s1_ghost_e19cm025",
+      "stop": 2,
+      "lam_final": 1.198574,
+      "tip_final": [
+        69.358,
+        -19.068
+      ],
+      "holds": 0,
+      "episodes": [],
+      "final_rel": -0.00012429894145682407
+    },
+    "merged, energy-matched": {
+      "tag": "pxtT25Jm_s1_naive_e19",
+      "stop": 2,
+      "lam_final": 1.415506,
+      "tip_final": [
+        59.096,
+        -19.266
+      ],
+      "holds": 34,
+      "episodes": [
+        {
+          "tip": [
+            24.6,
+            -4.8
+          ],
+          "steps": 14,
+          "lam_first": 1.27124,
+          "lam_max": 1.33624,
+          "grains": [
+            0,
+            7
+          ],
+          "dist_to_line": 0.64,
+          "seam_to_path_deg": 81.0
+        },
+        {
+          "tip": [
+            47.0,
+            -13.4
+          ],
+          "steps": 12,
+          "lam_first": 1.280506,
+          "lam_max": 1.345506,
+          "grains": [
+            10,
+            7
+          ],
+          "dist_to_line": 0.11,
+          "seam_to_path_deg": 38.0
+        },
+        {
+          "tip": [
+            54.9,
+            -16.2
+          ],
+          "steps": 7,
+          "lam_first": 1.355506,
+          "lam_max": 1.395506,
+          "grains": [
+            3,
+            10
+          ],
+          "dist_to_line": 0.14,
+          "seam_to_path_deg": 14.0
+        },
+        {
+          "tip": [
+            58.0,
+            -18.1
+          ],
+          "steps": 1,
+          "lam_first": 1.405506,
+          "lam_max": 1.405506,
+          "grains": [
+            3,
+            10
+          ],
+          "dist_to_line": 0.27,
+          "seam_to_path_deg": 14.0
+        }
+      ],
+      "final_rel": 0.18084494916673832
+    }
+  },
+  "T25_s2": {
+    "single crystal": {
+      "tag": "pxtT25z_s2_naive_e19",
+      "stop": 2,
+      "lam_final": 1.198723,
+      "tip_final": [
+        64.454,
+        -19.321
+      ],
+      "holds": 1,
+      "episodes": [
+        {
+          "tip": [
+            63.1,
+            -18.8
+          ],
+          "steps": 1,
+          "lam_first": 1.193723,
+          "lam_max": 1.193723,
+          "grains": [
+            1,
+            5
+          ],
+          "dist_to_line": 4.83,
+          "seam_to_path_deg": 85.0
+        }
+      ],
+      "final_rel": 0.0
+    },
+    "coupling, mu 1e-1": {
+      "tag": "pxtT25Em1_s2_ghost_e19cm025",
+      "stop": 2,
+      "lam_final": 1.255793,
+      "tip_final": [
+        90.737,
+        -19.486
+      ],
+      "holds": 11,
+      "episodes": [
+        {
+          "tip": [
+            65.7,
+            -18.5
+          ],
+          "steps": 11,
+          "lam_first": 1.198478,
+          "lam_max": 1.263478,
+          "grains": [
+            1,
+            5
+          ],
+          "dist_to_line": 2.39,
+          "seam_to_path_deg": 85.0
+        }
+      ],
+      "final_rel": 0.0476089972412308
+    },
+    "merged, energy-matched": {
+      "tag": "pxtT25Jm_s2_naive_e19",
+      "stop": 2,
+      "lam_final": 1.253933,
+      "tip_final": [
+        98.016,
+        -19.126
+      ],
+      "holds": 20,
+      "episodes": [
+        {
+          "tip": [
+            24.0,
+            -3.4
+          ],
+          "steps": 19,
+          "lam_first": 1.318433,
+          "lam_max": 1.413433,
+          "grains": [
+            11,
+            0
+          ],
+          "dist_to_line": 0.43,
+          "seam_to_path_deg": 77.0
+        },
+        {
+          "tip": [
+            42.6,
+            -10.2
+          ],
+          "steps": 1,
+          "lam_first": 1.353916,
+          "lam_max": 1.353916,
+          "grains": [
+            11,
+            1
+          ],
+          "dist_to_line": 0.16,
+          "seam_to_path_deg": 83.0
+        }
+      ],
+      "final_rel": 0.046057346025728974
+    }
+  }
+}

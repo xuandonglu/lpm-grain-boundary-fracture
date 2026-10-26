@@ -1,0 +1,26 @@
+{
+  "family": "bicrystal",
+  "material": "Fe",
+  "method": "ghost",
+  "regularization": 0.1,
+  "geometry": {
+    "mode": "twist",
+    "sigma": 13,
+    "f": 0.349,
+    "W": 48.0,
+    "H": 28.0,
+    "a0": 12.0,
+    "xg": 16.0,
+    "Lz": 13.0,
+    "r": 1.2
+  },
+  "solver": {
+    "start_load": 0.5,
+    "end_load": 2.5,
+    "load_step": 0.01,
+    "fine_step": 0.005,
+    "partition_threshold": 0.25,
+    "time_limit_seconds": 3600
+  },
+  "initial_stencil": "data/stencils/fe_si_sigma13_twist_22p6_ghost.npz"
+}

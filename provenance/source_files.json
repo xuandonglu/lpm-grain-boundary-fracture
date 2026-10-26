@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "source": "lpmc_skin_check/bc_core.py",
+      "source_sha256": "1e378e3c053d253848cdf4efc6ffea6a073ed6a32adc7dcca389c6ab22cdb8e6",
+      "destination": "src/lpm_fracture/_core/bcc_lattice.py",
+      "routines": [
+        "params",
+        "compliance",
+        "unit",
+        "bcc_sites",
+        "BCCModel",
+        "miller_frame",
+        "lattice_period"
+      ],
+      "destination_sha256": "77c9b3def974de6c50d9bc75525bd56e9bf1feb11f6886e59e1198700d0ce121",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "lpmc_skin_check/pc_core.py",
+      "source_sha256": "1749c405d39b71fa5da0124abf42fba2a9b2005d7e80ee7812bf440a34268844",
+      "destination": "src/lpm_fracture/_core/lattice_sites.py",
+      "routines": [
+        "sites"
+      ],
+      "destination_sha256": "07f5e91220a53ff94aff83567c401fff9e71de9794ea88dd81e93646afa455d8",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "lpmc_skin_check/ct_core.py",
+      "source_sha256": "31ea16485733c7588f52955f01dc49c90c84b80f8ac6b52ed0b5adad4ea83ee6",
+      "destination": "src/lpm_fracture/_core/anisotropic_loading.py",
+      "routines": [
+        "stroh_frame",
+        "kfield_disp",
+        "lambda22"
+      ],
+      "destination_sha256": "2379595ee8104c688d9b8d32f5c6254965e94d8692fb912edd33a27394cfe332",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "lpmc_skin_check/sc_core.py",
+      "source_sha256": "e5089b8b5651b81b966a4d06e6559cb632c47472958183dce1df986e82131d3c",
+      "destination": "src/lpm_fracture/_core/cleavage_calibration.py",
+      "routines": [
+        "crossing",
+        "rigid_sep_curve",
+        "calib_bond"
+      ],
+      "destination_sha256": "7544e7db62cc1175ea70a1d5346408e04f2f7416a19c23c39e7f8daea35a901b",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "lpmc_skin_check/uc_core.py",
+      "source_sha256": "0b93daeea106604bdae436fed0bd27de9cdf58c6f635182147172e84f7a06050",
+      "destination": "src/lpm_fracture/_core/cohesive_laws.py",
+      "routines": [
+        "shape_g",
+        "phi_of",
+        "Law",
+        "rigid_sep",
+        "UCDisc"
+      ],
+      "destination_sha256": "a97719b6e8f9f3aceddf77b585d5f8b5c641ac28568c4b4700131f490696c4ef",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "lpmc_skin_check/gb_core.py",
+      "source_sha256": "78f1fcb560a55a2b31b78d6cf18e8ad25f5c9c8bf91a48461e4d34a0a4eec582",
+      "destination": "src/lpm_fracture/_core/grain_geometry.py",
+      "routines": [
+        "rotz",
+        "rotx",
+        "roty",
+        "grain_frame",
+        "law_from_spec",
+        "gamma_bb",
+        "_periodic_tree",
+        "merge_overlaps",
+        "build_cloud",
+        "crack_y0",
+        "GBModel",
+        "KIG_A"
+      ],
+      "destination_sha256": "6c03bd4e35e4d66168df96f9efce1fa4378b51d1692be06845cddf94b83c599e",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "lpmc_skin_check/gb_poly.py",
+      "source_sha256": "e97db2242db2849c48d5c6ecdb31917dc4f345dbea2f2f922f5a19afac324324",
+      "destination": "src/lpm_fracture/_core/polycrystal_geometry.py",
+      "routines": [
+        "set_poly_gb_law"
+      ],
+      "destination_sha256": "b11ed4181c8e1ec1b366398f3498ca9b7f8012a6305fbf0f8502ce25147e768e",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "lpmc_skin_check/gt_fe_kcalc.py",
+      "source_sha256": "67334337afa8a18db53c15fccb91bd9d5bb6c07520fb400c7a403471dc65de4e",
+      "destination": "src/lpm_fracture/_core/stroh_elasticity.py",
+      "routines": [
+        "unit",
+        "C66",
+        "C4",
+        "to_voigt",
+        "stroh",
+        "Lam",
+        "stress",
+        "frame"
+      ],
+      "destination_sha256": "2d35f787dcd3253cf3aacfffab6463c9d6833fa3e595d68b3b471ab6a7e2684d",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gb3d/gb3d_common.py",
+      "source_sha256": "f9b176a3d8f3f9139d1f7cbd2bafc608764d6ae581a004180565faf652898df6",
+      "destination": "src/lpm_fracture/_core/elasticity.py",
+      "routines": [
+        "material",
+        "cubic_C",
+        "rotate_C",
+        "bicrystal",
+        "polycrystal",
+        "model"
+      ],
+      "destination_sha256": "75239435f75c73927e2accebe2f6b5355edf401776ff663349ed0dd1e5395630",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gb3d/gb3d_oracle.py",
+      "source_sha256": "15ab77dc1f91813d5cd1ce287f5201de7bb92dac332070fcb3fb04d715fddcc8",
+      "destination": "src/lpm_fracture/_core/elastic_interface_fields.py",
+      "routines": [
+        "voigt",
+        "exact_bicrystal"
+      ],
+      "destination_sha256": "668c598aed23809f3f93ee5c8fb96e7e500cb3ddb5eea3dd2ae36b1896503bce",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gb3d/ghost3d_eval.py",
+      "source_sha256": "20bcf886939e3d590bd9f32dd297bb2fc1ba9a675b69d1dd33725e8c3ac85bc9",
+      "destination": "src/lpm_fracture/_core/elastic_displacements.py",
+      "routines": [
+        "u_exact"
+      ],
+      "destination_sha256": "9512cf965d43e835531145d345383ce50e44c289a33c4209441addab4724363e",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gb3d/ghost3d.py",
+      "source_sha256": "19ee64f39273eb1b0ccd6e80ff3dcb9cc64882f43a81b17e48ab5547a70658e3",
+      "destination": "src/lpm_fracture/_core/ghost_lattice.py",
+      "routines": [
+        "build_grains",
+        "GhostLPM"
+      ],
+      "destination_sha256": "1c20f380696943f9c54ce7e07043377c00f924e305e25bcf159ccbab67e7cb9b",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gb3d/ghost_energy_opt.py",
+      "source_sha256": "1b378cd446c01c47395b50109d0d38966a218151719db1106469e0a7619dbee7",
+      "destination": "src/lpm_fracture/_core/weight_optimization.py",
+      "routines": [
+        "candidates",
+        "min_image",
+        "moment_rows",
+        "base_weights",
+        "set_weights",
+        "optimise_weights_gen",
+        "poly_facet_fields",
+        "exact_bicrystal_n"
+      ],
+      "destination_sha256": "11c501aedb907dbcfd2a188583092a6eabfbbb66e70cdae0d70320e66f18de23",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gb3d/lpm3d.py",
+      "source_sha256": "2a5046bf7e1944b4d24241560ce94cd0766d9035854c67937ba7c23a3e48051a",
+      "destination": "src/lpm_fracture/_core/linear_energy.py",
+      "routines": [
+        "LPM3D"
+      ],
+      "destination_sha256": "4546b2fa0c57a15bd59502f987ed4e423282e76bfd27352ec6b34c2c16bf8776",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gbplast/gbp2d.py",
+      "source_sha256": "84ee49801b903e74c40b8ae5cbb7e371dfc13a82a2874d3e787028db5b6ba39b",
+      "destination": "src/lpm_fracture/_core/planar_geometry.py",
+      "routines": [
+        "hex_points",
+        "microstructure",
+        "assign",
+        "merge_overlaps",
+        "tri_weights",
+        "mls_weights_q",
+        "mls_weights"
+      ],
+      "destination_sha256": "4e5e27a5263e49e324e804a94b2fcc7c2c14ce7ea2ad7ee3f4d77540fa237363",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gbplast/j04model.py",
+      "source_sha256": "062aaced1df0120881ccc40757c66d3c2eac66bbe34276c82207127fef6ea49f",
+      "destination": "src/lpm_fracture/_core/hexagonal_stiffness.py",
+      "routines": [
+        "voigt_strains",
+        "energy_density",
+        "stiffness_of",
+        "params_from_C",
+        "rotate_C2"
+      ],
+      "destination_sha256": "ccb861ed8031a7cb0551a495399aa1a1a3fac4a844bf4c9647c00d98b2ffb376",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "ai_lpm/gbplast/j04frac.py",
+      "source_sha256": "2ebc6bfe64374cd216812fba7de40a4a0a84c666a1465d9cb0eaaa71cafb9c7b",
+      "destination": "src/lpm_fracture/_core/bond_softening_2d.py",
+      "routines": [
+        "mls_weights_q",
+        "Frac2D",
+        "wopt",
+        "interior_complete",
+        "patch_residual",
+        "run"
+      ],
+      "destination_sha256": "b26c5854f3771067bc5cea17b0ef6ba44452ea6742c82a25e99749cbdc99813d",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "tools/lpmc_build/fork/runs_gh/gh_export.py",
+      "source_sha256": "462b0fa000a2fafa853b9f214dc72cebc1677b9996a0d24d590fb96dbab897ac",
+      "destination": "src/lpm_fracture/_core/model_export.py",
+      "routines": [
+        "supports_of",
+        "write",
+        "naive_lpm",
+        "disc_gb_g",
+        "case_px",
+        "read_disc_particles",
+        "case_pxk",
+        "l_h_for",
+        "case_bx",
+        "case_bxn"
+      ],
+      "destination_sha256": "fdd82697344d49aef5d156e038cb045b200a9d85f117d8654ae8973b62c3e42c",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "tools/lpmc_build/fork/runs_gh/gh_export_emc.py",
+      "source_sha256": "251d8f36d7b6f593a5bfcd0aaa54beb4fdda6040cbee7ce2e5eb2cd1473e1d10",
+      "destination": "src/lpm_fracture/_core/energy_matching.py",
+      "routines": [
+        "emc_law",
+        "_bxn_law",
+        "disc_gb_g_emc"
+      ],
+      "destination_sha256": "f6a6fdca3ac981810a19c3b9600f7d6bf1c8ba9d8b80ca76c080fb23242a88f9",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "tools/lpmc_build/fork/runs_gh/gh_export_par.py",
+      "source_sha256": "67dfb8e5356592ead30f9821bcdf3d82020cb633743c7786e9174d1b8db940df",
+      "destination": "src/lpm_fracture/_core/bicrystal_export.py",
+      "routines": [
+        "frames_of",
+        "export",
+        "bcs"
+      ],
+      "destination_sha256": "70e0087d636704921660c6fa642ac017b5b57d691ab0e3fb6f32916579d62349",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "tools/lpmc_build/fork/runs_gh/gh_export_tpu.py",
+      "source_sha256": "8210f3ec1e21fef12bbc9de98b3d4c63f18ffdee81055a5cd329c30f2d2f6e5c",
+      "destination": "src/lpm_fracture/_core/tensile_strip_export.py",
+      "routines": [
+        "case_pxu_t"
+      ],
+      "destination_sha256": "f5ac92840a7b03016e9921210f6749d7922d62e27501bf1f146967a692e92378",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "tools/lpmc_build/fork/runs_gh/gh_bin.py",
+      "source_sha256": "537e066531bfc179860aa44359b99a3510daf5acca99f9b4b1ec225020706d86",
+      "destination": "src/lpm_fracture/_core/binary_model.py",
+      "routines": [
+        "read"
+      ],
+      "destination_sha256": "e51508bbc7ae383f8beb10925506ca1575a0fb5cdc1a1f0f5bec744914a82f8f",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "tools/lpmc_build/fork/runs_gh/mat_w.py",
+      "source_sha256": "1c79b233ba4db1296813ee11aa7c04fd57dcb8ff52f76ca7af59aab4447b822d",
+      "destination": "src/lpm_fracture/_core/material_selection.py",
+      "routines": [
+        "use"
+      ],
+      "destination_sha256": "4590752601189e9a51925bf153b0abb1af7b8339af96a053e7ce57fd21ab9233",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "tools/lpmc_build/fork/runs_gh/drv_ghu21.c",
+      "source_sha256": "51b55662a2cf1d8810c65535c2cc205141b7694e8c837cc8b68d15785d9e44d1",
+      "destination": "src/native/cohesive_solver.c",
+      "changes": "Replace historical preamble and executable help name only; keep all numerical statements.",
+      "destination_sha256": "f09c6609d3a32af8710aa82efbe166903f2ff8c3813f363e9257a25d11592e49",
+      "change": " Text line endings normalized to LF for Git portability."
+    },
+    {
+      "source": "tools/lpmc_build/fork/abi/pardiso_abi_safe.c",
+      "source_sha256": "d2e4bd9a7b314a083b133a4ec135223699a3792116fa63060dca508e1e32483b",
+      "destination": "src/native/pardiso_wrapper.c",
+      "changes": "Guard Windows GNU/Clang register preservation; no solver change.",
+      "destination_sha256": "14b1fa9074d73783c49d7fd5d69098e557454786f29b2297f8aa11881b920fd5",
+      "change": " Text line endings normalized to LF for Git portability."
+    }
+  ],
+  "operations": [
+    "Descriptive module names and relative imports",
+    "Remove unrelated study entry points and machine path manipulation",
+    "Extract only geometry and law support needed by fracture preprocessing",
+    "Use a compressed-geometry input accessor",
+    "Remove a side-effect-only export report writer"
+  ],
+  "formatting": "Python source layout normalized with Black 26.10.1; numerical kernels preserved."
+}

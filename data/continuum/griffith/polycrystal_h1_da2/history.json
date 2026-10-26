@@ -1,0 +1,1062 @@
+[
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 2.095008892454448,
+    "G_unit": 1.047504446227224,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.2687015754608026,
+    "free_force_residual": 6.084022174945858e-13,
+    "end": [
+      14.0,
+      -0.25
+    ],
+    "step": 1,
+    "start": [
+      12.0,
+      -0.25
+    ],
+    "front": 14.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 2.337561814942621,
+    "G_unit": 1.1687809074713105,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.201077032785808,
+    "free_force_residual": 4.147793219999585e-13,
+    "end": [
+      16.0,
+      -0.25
+    ],
+    "step": 2,
+    "start": [
+      14.0,
+      -0.25
+    ],
+    "front": 16.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 2.5364878062047964,
+    "G_unit": 1.2682439031023982,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.153017835103835,
+    "free_force_residual": 5.870859354217828e-13,
+    "end": [
+      18.0,
+      -0.25
+    ],
+    "step": 3,
+    "start": [
+      16.0,
+      -0.25
+    ],
+    "front": 18.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 2.69584908022577,
+    "G_unit": 1.347924540112885,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.1184192324795195,
+    "free_force_residual": 4.947153797729698e-13,
+    "end": [
+      20.0,
+      -0.25
+    ],
+    "step": 4,
+    "start": [
+      18.0,
+      -0.25
+    ],
+    "front": 20.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 2.821039099492239,
+    "G_unit": 1.4105195497461196,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.093321432656473,
+    "free_force_residual": 4.547473508864641e-13,
+    "end": [
+      22.0,
+      -0.25
+    ],
+    "step": 5,
+    "start": [
+      20.0,
+      -0.25
+    ],
+    "front": 22.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 2.917827258732679,
+    "G_unit": 1.4589136293663394,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0750350546505765,
+    "free_force_residual": 5.03597163969971e-13,
+    "end": [
+      24.0,
+      -0.25
+    ],
+    "step": 6,
+    "start": [
+      22.0,
+      -0.25
+    ],
+    "front": 24.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 2.991724684252574,
+    "G_unit": 1.495862342126287,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0616750276369546,
+    "free_force_residual": 4.627964678149965e-13,
+    "end": [
+      26.0,
+      -0.25
+    ],
+    "step": 7,
+    "start": [
+      24.0,
+      -0.25
+    ],
+    "front": 26.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.0476196040960417,
+    "G_unit": 1.5238098020480209,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0518941388964118,
+    "free_force_residual": 4.720668300706166e-13,
+    "end": [
+      28.0,
+      -0.25
+    ],
+    "step": 8,
+    "start": [
+      26.0,
+      -0.25
+    ],
+    "front": 28.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.089623701631833,
+    "G_unit": 1.5448118508159165,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0447193062731366,
+    "free_force_residual": 4.602984660095899e-13,
+    "end": [
+      30.0,
+      -0.25
+    ],
+    "step": 9,
+    "start": [
+      28.0,
+      -0.25
+    ],
+    "front": 30.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.1210629639669136,
+    "G_unit": 1.5605314819834568,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.039444126232233,
+    "free_force_residual": 4.820310817166273e-13,
+    "end": [
+      32.0,
+      -0.25
+    ],
+    "step": 10,
+    "start": [
+      30.0,
+      -0.25
+    ],
+    "front": 32.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.1445513616994916,
+    "G_unit": 1.5722756808497458,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.035554757387031,
+    "free_force_residual": 6.252776074688882e-13,
+    "end": [
+      34.0,
+      -0.25
+    ],
+    "step": 11,
+    "start": [
+      32.0,
+      -0.25
+    ],
+    "front": 34.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.1621004204787084,
+    "G_unit": 1.5810502102393542,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.032677192906084,
+    "free_force_residual": 5.115907697472721e-13,
+    "end": [
+      36.0,
+      -0.25
+    ],
+    "step": 12,
+    "start": [
+      34.0,
+      -0.25
+    ],
+    "front": 36.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.1752347230913323,
+    "G_unit": 1.5876173615456661,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0305391540977384,
+    "free_force_residual": 5.684341886080801e-13,
+    "end": [
+      38.0,
+      -0.25
+    ],
+    "step": 13,
+    "start": [
+      36.0,
+      -0.25
+    ],
+    "front": 38.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.1850974132357166,
+    "G_unit": 1.5925487066178583,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0289423789613512,
+    "free_force_residual": 5.684341886080801e-13,
+    "end": [
+      40.0,
+      -0.25
+    ],
+    "step": 14,
+    "start": [
+      38.0,
+      -0.25
+    ],
+    "front": 40.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.1925392436412814,
+    "G_unit": 1.5962696218206407,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0277424434931097,
+    "free_force_residual": 5.684341886080801e-13,
+    "end": [
+      42.0,
+      -0.25
+    ],
+    "step": 15,
+    "start": [
+      40.0,
+      -0.25
+    ],
+    "front": 42.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.1981901582236922,
+    "G_unit": 1.5990950791118461,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0268340777992895,
+    "free_force_residual": 5.684341886080801e-13,
+    "end": [
+      44.0,
+      -0.25
+    ],
+    "step": 16,
+    "start": [
+      42.0,
+      -0.25
+    ],
+    "front": 44.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2025150409963103,
+    "G_unit": 1.6012575204981552,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0261404920859194,
+    "free_force_residual": 5.826450433232822e-13,
+    "end": [
+      46.0,
+      -0.25
+    ],
+    "step": 17,
+    "start": [
+      44.0,
+      -0.25
+    ],
+    "front": 46.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.205856232535499,
+    "G_unit": 1.6029281162677496,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0256056231672726,
+    "free_force_residual": 7.105427357601002e-13,
+    "end": [
+      48.0,
+      -0.25
+    ],
+    "step": 18,
+    "start": [
+      46.0,
+      -0.25
+    ],
+    "front": 48.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2084655064328373,
+    "G_unit": 1.6042327532164187,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0251885031644268,
+    "free_force_residual": 7.105427357601002e-13,
+    "end": [
+      50.0,
+      -0.25
+    ],
+    "step": 19,
+    "start": [
+      48.0,
+      -0.25
+    ],
+    "front": 50.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.210527900617876,
+    "G_unit": 1.605263950308938,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.024859167532179,
+    "free_force_residual": 9.094947017729282e-13,
+    "end": [
+      52.0,
+      -0.25
+    ],
+    "step": 20,
+    "start": [
+      50.0,
+      -0.25
+    ],
+    "front": 52.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.212179375398616,
+    "G_unit": 1.606089687699308,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0245956787179347,
+    "free_force_residual": 6.252776074688882e-13,
+    "end": [
+      54.0,
+      -0.25
+    ],
+    "step": 21,
+    "start": [
+      52.0,
+      -0.25
+    ],
+    "front": 54.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2135198508384555,
+    "G_unit": 1.6067599254192277,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0243819584571046,
+    "free_force_residual": 8.810729923425242e-13,
+    "end": [
+      56.0,
+      -0.25
+    ],
+    "step": 22,
+    "start": [
+      54.0,
+      -0.25
+    ],
+    "front": 56.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2146228120402043,
+    "G_unit": 1.6073114060201021,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0242062068131395,
+    "free_force_residual": 7.958078640513122e-13,
+    "end": [
+      58.0,
+      -0.25
+    ],
+    "step": 23,
+    "start": [
+      56.0,
+      -0.25
+    ],
+    "front": 58.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.215542376503574,
+    "G_unit": 1.607771188251787,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0240597476991273,
+    "free_force_residual": 9.094947017729282e-13,
+    "end": [
+      60.0,
+      -0.25
+    ],
+    "step": 24,
+    "start": [
+      58.0,
+      -0.25
+    ],
+    "front": 60.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2163184889638856,
+    "G_unit": 1.6081592444819428,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0239361850785167,
+    "free_force_residual": 7.389644451905042e-13,
+    "end": [
+      62.0,
+      -0.25
+    ],
+    "step": 25,
+    "start": [
+      60.0,
+      -0.25
+    ],
+    "front": 62.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2169807359526494,
+    "G_unit": 1.6084903679763247,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0238307860082674,
+    "free_force_residual": 9.094947017729282e-13,
+    "end": [
+      64.0,
+      -0.25
+    ],
+    "step": 26,
+    "start": [
+      62.0,
+      -0.25
+    ],
+    "front": 64.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2175511429397474,
+    "G_unit": 1.6087755714698737,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0237400297011936,
+    "free_force_residual": 7.958078640513122e-13,
+    "end": [
+      66.0,
+      -0.25
+    ],
+    "step": 27,
+    "start": [
+      64.0,
+      -0.25
+    ],
+    "front": 66.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2180462219528536,
+    "G_unit": 1.6090231109764268,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0236612782378098,
+    "free_force_residual": 9.094947017729282e-13,
+    "end": [
+      68.0,
+      -0.25
+    ],
+    "step": 28,
+    "start": [
+      66.0,
+      -0.25
+    ],
+    "front": 68.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2184784666576043,
+    "G_unit": 1.6092392333288021,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0235925365903722,
+    "free_force_residual": 9.094947017729282e-13,
+    "end": [
+      70.0,
+      -0.25
+    ],
+    "step": 29,
+    "start": [
+      68.0,
+      -0.25
+    ],
+    "front": 70.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2188574408869144,
+    "G_unit": 1.6094287204434572,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0235322781573195,
+    "free_force_residual": 9.094947017729282e-13,
+    "end": [
+      72.0,
+      -0.25
+    ],
+    "step": 30,
+    "start": [
+      70.0,
+      -0.25
+    ],
+    "front": 72.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2191905680660895,
+    "G_unit": 1.6095952840330447,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0234793183783306,
+    "free_force_residual": 9.663381206337363e-13,
+    "end": [
+      74.0,
+      -0.25
+    ],
+    "step": 31,
+    "start": [
+      72.0,
+      -0.25
+    ],
+    "front": 74.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.219483700796463,
+    "G_unit": 1.6097418503982315,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0234327236220997,
+    "free_force_residual": 1.0800249583553523e-12,
+    "end": [
+      76.0,
+      -0.25
+    ],
+    "step": 32,
+    "start": [
+      74.0,
+      -0.25
+    ],
+    "front": 76.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.219741528446704,
+    "G_unit": 1.609870764223352,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0233917460258135,
+    "free_force_residual": 9.379164112033322e-13,
+    "end": [
+      78.0,
+      -0.25
+    ],
+    "step": 33,
+    "start": [
+      76.0,
+      -0.25
+    ],
+    "front": 78.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2199678638623723,
+    "G_unit": 1.6099839319311862,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0233557776751112,
+    "free_force_residual": 1.0800249583553523e-12,
+    "end": [
+      80.0,
+      -0.25
+    ],
+    "step": 34,
+    "start": [
+      78.0,
+      -0.25
+    ],
+    "front": 80.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2201658367794117,
+    "G_unit": 1.6100829183897059,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0233243196924007,
+    "free_force_residual": 9.379164112033322e-13,
+    "end": [
+      82.0,
+      -0.25
+    ],
+    "step": 35,
+    "start": [
+      80.0,
+      -0.25
+    ],
+    "front": 82.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2203380090786276,
+    "G_unit": 1.6101690045393138,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232969637975438,
+    "free_force_residual": 1.0800249583553523e-12,
+    "end": [
+      84.0,
+      -0.25
+    ],
+    "step": 36,
+    "start": [
+      82.0,
+      -0.25
+    ],
+    "front": 84.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2204864148487324,
+    "G_unit": 1.6102432074243662,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232733858493757,
+    "free_force_residual": 9.094947017729282e-13,
+    "end": [
+      86.0,
+      -0.25
+    ],
+    "step": 37,
+    "start": [
+      84.0,
+      -0.25
+    ],
+    "front": 86.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2206125143455786,
+    "G_unit": 1.6103062571727893,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.02325335308828,
+    "free_force_residual": 1.1084466677857563e-12,
+    "end": [
+      88.0,
+      -0.25
+    ],
+    "step": 38,
+    "start": [
+      86.0,
+      -0.25
+    ],
+    "front": 88.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2207170335346653,
+    "G_unit": 1.6103585167673327,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232367495684298,
+    "free_force_residual": 1.1084466677857563e-12,
+    "end": [
+      90.0,
+      -0.25
+    ],
+    "step": 39,
+    "start": [
+      88.0,
+      -0.25
+    ],
+    "front": 90.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.220799638626154,
+    "G_unit": 1.610399819313077,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232236278103632,
+    "free_force_residual": 1.0800249583553523e-12,
+    "end": [
+      92.0,
+      -0.25
+    ],
+    "step": 40,
+    "start": [
+      90.0,
+      -0.25
+    ],
+    "front": 92.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.220858364764382,
+    "G_unit": 1.610429182382191,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232142995134763,
+    "free_force_residual": 1.0516032489249483e-12,
+    "end": [
+      94.0,
+      -0.25
+    ],
+    "step": 41,
+    "start": [
+      92.0,
+      -0.25
+    ],
+    "front": 94.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.220888676163092,
+    "G_unit": 1.610444338081546,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232094848283557,
+    "free_force_residual": 1.3073986337985843e-12,
+    "end": [
+      96.0,
+      -0.25
+    ],
+    "step": 42,
+    "start": [
+      94.0,
+      -0.25
+    ],
+    "front": 96.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.22088197654843,
+    "G_unit": 1.610440988274215,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232105489942818,
+    "free_force_residual": 1.1084466677857563e-12,
+    "end": [
+      98.0,
+      -0.25
+    ],
+    "step": 43,
+    "start": [
+      96.0,
+      -0.25
+    ],
+    "front": 98.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.220823302551487,
+    "G_unit": 1.6104116512757436,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.023219868906237,
+    "free_force_residual": 1.1084466677857563e-12,
+    "end": [
+      100.0,
+      -0.25
+    ],
+    "step": 44,
+    "start": [
+      98.0,
+      -0.25
+    ],
+    "front": 100.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.220687799538883,
+    "G_unit": 1.6103438997694415,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232413934881144,
+    "free_force_residual": 1.2505552149377763e-12,
+    "end": [
+      102.0,
+      -0.25
+    ],
+    "step": 45,
+    "start": [
+      100.0,
+      -0.25
+    ],
+    "front": 102.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2204353586588823,
+    "G_unit": 1.6102176793294412,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0232814972112525,
+    "free_force_residual": 1.1084466677857563e-12,
+    "end": [
+      104.0,
+      -0.25
+    ],
+    "step": 46,
+    "start": [
+      102.0,
+      -0.25
+    ],
+    "front": 104.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2200023915774025,
+    "G_unit": 1.6100011957887013,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0233502909972938,
+    "free_force_residual": 1.2221335055073723e-12,
+    "end": [
+      106.0,
+      -0.25
+    ],
+    "step": 47,
+    "start": [
+      104.0,
+      -0.25
+    ],
+    "front": 106.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2192889105960276,
+    "G_unit": 1.6096444552980138,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0234636856847468,
+    "free_force_residual": 1.0231815394945443e-12,
+    "end": [
+      108.0,
+      -0.25
+    ],
+    "step": 48,
+    "start": [
+      106.0,
+      -0.25
+    ],
+    "front": 108.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.218137292669372,
+    "G_unit": 1.609068646334686,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0236467937368137,
+    "free_force_residual": 1.1937117960769683e-12,
+    "end": [
+      110.0,
+      -0.25
+    ],
+    "step": 49,
+    "start": [
+      108.0,
+      -0.25
+    ],
+    "front": 110.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2162949032734183,
+    "G_unit": 1.6081474516367091,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0239399394291548,
+    "free_force_residual": 1.2789769243681803e-12,
+    "end": [
+      112.0,
+      -0.25
+    ],
+    "step": 50,
+    "start": [
+      110.0,
+      -0.25
+    ],
+    "front": 112.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2133425482348983,
+    "G_unit": 1.6066712741174491,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0244102192292173,
+    "free_force_residual": 1.1652900866465643e-12,
+    "end": [
+      114.0,
+      -0.25
+    ],
+    "step": 51,
+    "start": [
+      112.0,
+      -0.25
+    ],
+    "front": 114.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2085450682995926,
+    "G_unit": 1.6042725341497963,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.0251757923539189,
+    "free_force_residual": 1.2789769243681803e-12,
+    "end": [
+      116.0,
+      -0.25
+    ],
+    "step": 52,
+    "start": [
+      114.0,
+      -0.25
+    ],
+    "front": 116.0,
+    "tipy": -0.25
+  },
+  {
+    "angle": 0,
+    "new_length": 2.0,
+    "energy_release_unit": 3.2005111082971034,
+    "G_unit": 1.6002555541485517,
+    "Gamma": 1.6860670194003529,
+    "critical_lambda": 1.026461689956729,
+    "free_force_residual": 1.1652900866465643e-12,
+    "end": [
+      118.0,
+      -0.25
+    ],
+    "step": 53,
+    "start": [
+      116.0,
+      -0.25
+    ],
+    "front": 118.0,
+    "tipy": -0.25
+  }
+]

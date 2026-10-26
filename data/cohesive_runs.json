@@ -1,0 +1,1416 @@
+[
+  {
+    "id": "molybdenum_strength_runs_single",
+    "source_tag": "moS0_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_single/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_single/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "single"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_23_coupling",
+    "source_tag": "moS23W_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_23_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_23_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "23 coupling"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_23_merged_reg0",
+    "source_tag": "moS23m0_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_23_merged_reg0/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_23_merged_reg0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "23 merged reg0"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_23_merged_reg1",
+    "source_tag": "moS23m1_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_23_merged_reg1/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_23_merged_reg1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "23 merged reg1"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_37_coupling",
+    "source_tag": "moS37W_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_37_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_37_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "37 coupling"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_37_merged_reg0",
+    "source_tag": "moS37m0_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_37_merged_reg0/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_37_merged_reg0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "37 merged reg0"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_37_merged_reg1",
+    "source_tag": "moS37m1_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_37_merged_reg1/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_37_merged_reg1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "37 merged reg1"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_53_coupling",
+    "source_tag": "moS53W_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_53_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_53_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "53 coupling"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_53_merged_reg0",
+    "source_tag": "moS53m0_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_53_merged_reg0/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_53_merged_reg0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "53 merged reg0"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_53_merged_reg1",
+    "source_tag": "moS53m1_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_53_merged_reg1/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_53_merged_reg1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "53 merged reg1"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_71_coupling",
+    "source_tag": "moS71W_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_71_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_71_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "71 coupling"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_71_merged_reg0",
+    "source_tag": "moS71m0_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_71_merged_reg0/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_71_merged_reg0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "71 merged reg0"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_71_merged_reg1",
+    "source_tag": "moS71m1_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_71_merged_reg1/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_71_merged_reg1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "71 merged reg1"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_9_coupling",
+    "source_tag": "moS9W_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_9_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_9_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "9 coupling"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_9_merged_reg0",
+    "source_tag": "moS9m0_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_9_merged_reg0/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_9_merged_reg0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "9 merged reg0"
+    ]
+  },
+  {
+    "id": "molybdenum_strength_runs_9_merged_reg1",
+    "source_tag": "moS9m1_e19",
+    "files": {
+      "history": "data/raw/cohesive/molybdenum_strength_runs_9_merged_reg1/history.txt.gz",
+      "events": "data/raw/cohesive/molybdenum_strength_runs_9_merged_reg1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "molybdenum_strength",
+      "runs",
+      "9 merged reg1"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s1_single_crystal",
+    "source_tag": "pxt0_s1_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s1_single_crystal/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s1_single_crystal/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s1",
+      "single crystal"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s2_single_crystal",
+    "source_tag": "pxt0_s2_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s2_single_crystal/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s2_single_crystal/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s2",
+      "single crystal"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s3_single_crystal",
+    "source_tag": "pxt0_s3_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s3_single_crystal/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s3_single_crystal/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s3",
+      "single crystal"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s4_single_crystal",
+    "source_tag": "pxt0_s4_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s4_single_crystal/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s4_single_crystal/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s4",
+      "single crystal"
+    ]
+  },
+  {
+    "id": "appendix_cost_mu_0p001_s1",
+    "source_tag": "pxtE_s1_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/appendix_cost_mu_0p001_s1/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_cost_mu_0p001_s1/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_cost_mu_0p001_s2",
+    "source_tag": "pxtE_s2_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/appendix_cost_mu_0p001_s2/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_cost_mu_0p001_s2/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_cost_mu_0p001_s3",
+    "source_tag": "pxtE_s3_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/appendix_cost_mu_0p001_s3/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_cost_mu_0p001_s3/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_cost_mu_0p001_s4",
+    "source_tag": "pxtE_s4_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/appendix_cost_mu_0p001_s4/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_cost_mu_0p001_s4/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "multigrain_controls_s1_coupling_mu_1e_1",
+    "source_tag": "pxtEm1_s1_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s1_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s1_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s1",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s2_coupling_mu_1e_1",
+    "source_tag": "pxtEm1_s2_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s2_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s2_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s2",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s3_coupling_mu_1e_1",
+    "source_tag": "pxtEm1_s3_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s3_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s3_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s3",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s4_coupling_mu_1e_1",
+    "source_tag": "pxtEm1_s4_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s4_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s4_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s4",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s1_merged_energy_matched",
+    "source_tag": "pxtJm_s1_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s1_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s1_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s1",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s2_merged_energy_matched",
+    "source_tag": "pxtJm_s2_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s2_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s2_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s2",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s3_merged_energy_matched",
+    "source_tag": "pxtJm_s3_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s3_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s3_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s3",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s4_merged_energy_matched",
+    "source_tag": "pxtJm_s4_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s4_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s4_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s4",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "multigrain_controls_s1_merged_plain_g_1",
+    "source_tag": "pxtJn_s1_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_s1_merged_plain_g_1/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_s1_merged_plain_g_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "-_s1",
+      "merged, plain (g = 1)"
+    ]
+  },
+  {
+    "id": "multigrain_fine_s1_reference",
+    "source_tag": "pxtR0_s1_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_fine_s1_reference/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_fine_s1_reference/events.txt.gz"
+    },
+    "scope": "main",
+    "context": []
+  },
+  {
+    "id": "multigrain_fine_s2_reference",
+    "source_tag": "pxtR0_s2_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_fine_s2_reference/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_fine_s2_reference/events.txt.gz"
+    },
+    "scope": "main",
+    "context": []
+  },
+  {
+    "id": "multigrain_fine_s3_reference",
+    "source_tag": "pxtR0_s3_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_fine_s3_reference/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_fine_s3_reference/events.txt.gz"
+    },
+    "scope": "main",
+    "context": []
+  },
+  {
+    "id": "multigrain_fine_s1_ghost",
+    "source_tag": "pxtREm1_s1_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_fine_s1_ghost/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_fine_s1_ghost/events.txt.gz"
+    },
+    "scope": "main",
+    "context": []
+  },
+  {
+    "id": "multigrain_fine_s2_ghost",
+    "source_tag": "pxtREm1_s2_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_fine_s2_ghost/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_fine_s2_ghost/events.txt.gz"
+    },
+    "scope": "main",
+    "context": []
+  },
+  {
+    "id": "multigrain_fine_s3_ghost",
+    "source_tag": "pxtREm1_s3_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_fine_s3_ghost/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_fine_s3_ghost/events.txt.gz"
+    },
+    "scope": "main",
+    "context": []
+  },
+  {
+    "id": "multigrain_controls_t25_s1_coupling_mu_1e_1",
+    "source_tag": "pxtT25Em1_s1_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_t25_s1_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_t25_s1_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "T25_s1",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "multigrain_controls_t25_s2_coupling_mu_1e_1",
+    "source_tag": "pxtT25Em1_s2_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_t25_s2_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_t25_s2_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "T25_s2",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "multigrain_controls_t25_s1_merged_energy_matched",
+    "source_tag": "pxtT25Jm_s1_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_t25_s1_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_t25_s1_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "T25_s1",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "multigrain_controls_t25_s2_merged_energy_matched",
+    "source_tag": "pxtT25Jm_s2_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_t25_s2_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_t25_s2_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "T25_s2",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "multigrain_controls_t25_s1_single_crystal",
+    "source_tag": "pxtT25z_s1_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_t25_s1_single_crystal/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_t25_s1_single_crystal/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "T25_s1",
+      "single crystal"
+    ]
+  },
+  {
+    "id": "multigrain_controls_t25_s2_single_crystal",
+    "source_tag": "pxtT25z_s2_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/multigrain_controls_t25_s2_single_crystal/history.txt.gz",
+      "events": "data/raw/cohesive/multigrain_controls_t25_s2_single_crystal/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "multigrain_controls",
+      "T25_s2",
+      "single crystal"
+    ]
+  },
+  {
+    "id": "tensile_initiation_transparent_pxtu_s2_coupling_mu_1e_1",
+    "source_tag": "pxtu2W1_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_transparent_pxtu_s2_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_transparent_pxtu_s2_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "transparent PXTU_s2",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "tensile_initiation_transparent_pxtu_s2_merged_energy_matched",
+    "source_tag": "pxtu2m_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_transparent_pxtu_s2_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_transparent_pxtu_s2_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "transparent PXTU_s2",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "tensile_initiation_transparent_pxtu_s1_single_crystal_pxtuz_s1",
+    "source_tag": "pxtuz1_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_transparent_pxtu_s1_single_crystal_pxtuz_s1/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_transparent_pxtu_s1_single_crystal_pxtuz_s1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "transparent PXTU_s1",
+      "single crystal (PXTUz_s1)"
+    ]
+  },
+  {
+    "id": "tensile_initiation_misoriented_px_s1_f0_merged_energy_matched",
+    "source_tag": "pxu1m_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_misoriented_px_s1_f0_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_misoriented_px_s1_f0_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "misoriented PX_s1_f0",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "tensile_initiation_misoriented_px_s2_f0_merged_energy_matched",
+    "source_tag": "pxu2m_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_misoriented_px_s2_f0_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_misoriented_px_s2_f0_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "misoriented PX_s2_f0",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "tensile_initiation_misoriented_px_s3_f0_merged_energy_matched",
+    "source_tag": "pxu3m_naive_e19",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_misoriented_px_s3_f0_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_misoriented_px_s3_f0_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "misoriented PX_s3_f0",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "tensile_initiation_misoriented_px_s1_f0_coupling_mu_1e_1",
+    "source_tag": "pxuW1_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_misoriented_px_s1_f0_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_misoriented_px_s1_f0_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "misoriented PX_s1_f0",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "tensile_initiation_misoriented_px_s2_f0_coupling_mu_1e_1",
+    "source_tag": "pxuW2_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_misoriented_px_s2_f0_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_misoriented_px_s2_f0_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "misoriented PX_s2_f0",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "tensile_initiation_misoriented_px_s3_f0_coupling_mu_1e_1",
+    "source_tag": "pxuW3_ghost_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/tensile_initiation_misoriented_px_s3_f0_coupling_mu_1e_1/history.txt.gz",
+      "events": "data/raw/cohesive/tensile_initiation_misoriented_px_s3_f0_coupling_mu_1e_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "tensile_initiation",
+      "misoriented PX_s3_f0",
+      "coupling, mu 1e-1"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_single_13",
+    "source_tag": "sc13rZ13_e19ct1",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_single_13/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_single_13/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "single",
+      "13"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_single_17",
+    "source_tag": "sc13rZ17_e19ct1",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_single_17/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_single_17/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "single",
+      "17"
+    ]
+  },
+  {
+    "id": "bicrystal_reference",
+    "source_tag": "sc13r_e18",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_reference/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_reference/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "reference"
+    ]
+  },
+  {
+    "id": "crossing_ghost_aligned_layers",
+    "source_tag": "shR0W1_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/crossing_ghost_aligned_layers/history.txt.gz",
+      "events": "data/raw/cohesive/crossing_ghost_aligned_layers/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "coupling",
+      "1"
+    ]
+  },
+  {
+    "id": "appendix_support_shr0_e19c",
+    "source_tag": "shR0_e19c",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shr0_e19c/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shr0_e19c/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shr0_e19cm025",
+    "source_tag": "shR0_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shr0_e19cm025/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shr0_e19cm025/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shr0_e19ct05",
+    "source_tag": "shR0_e19ct05",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shr0_e19ct05/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shr0_e19ct05/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shr0_f19",
+    "source_tag": "shR0_f19",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shr0_f19/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shr0_f19/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "crossing_ghost_shifted_layers",
+    "source_tag": "shRW1_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/crossing_ghost_shifted_layers/history.txt.gz",
+      "events": "data/raw/cohesive/crossing_ghost_shifted_layers/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "coupling",
+      "2"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_transparent_coupling_13",
+    "source_tag": "shRWZ13_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_transparent_coupling_13/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_transparent_coupling_13/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "transparent",
+      "coupling",
+      "13"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_transparent_coupling_17",
+    "source_tag": "shRWZ17_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_transparent_coupling_17/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_transparent_coupling_17/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "transparent",
+      "coupling",
+      "17"
+    ]
+  },
+  {
+    "id": "crossing_ghost_coincident",
+    "source_tag": "shRZW1_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/crossing_ghost_coincident/history.txt.gz",
+      "events": "data/raw/cohesive/crossing_ghost_coincident/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "coupling",
+      "0"
+    ]
+  },
+  {
+    "id": "appendix_support_shr_e18",
+    "source_tag": "shR_e18",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shr_e18/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shr_e18/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shr_e19c",
+    "source_tag": "shR_e19c",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shr_e19c/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shr_e19c/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shr_e19cm025",
+    "source_tag": "shR_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shr_e19cm025/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shr_e19cm025/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shr_e19ct05",
+    "source_tag": "shR_e19ct05",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shr_e19ct05/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shr_e19ct05/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "crossing_energy_matched_shifted_layers",
+    "source_tag": "shRm1_e19",
+    "files": {
+      "history": "data/raw/cohesive/crossing_energy_matched_shifted_layers/history.txt.gz",
+      "events": "data/raw/cohesive/crossing_energy_matched_shifted_layers/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "merged, energy-matched",
+      "2"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_crossing_merged_energy_matched_0",
+    "source_tag": "shRmZ_e19",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_crossing_merged_energy_matched_0/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_crossing_merged_energy_matched_0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "merged, energy-matched",
+      "0"
+    ]
+  },
+  {
+    "id": "crossing_energy_matched_half_layer_offset",
+    "source_tag": "shRmq_e19",
+    "files": {
+      "history": "data/raw/cohesive/crossing_energy_matched_half_layer_offset/history.txt.gz",
+      "events": "data/raw/cohesive/crossing_energy_matched_half_layer_offset/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "merged, energy-matched",
+      "3"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_crossing_merged_plain_g_1_1",
+    "source_tag": "shRnN0_e19",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_crossing_merged_plain_g_1_1/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_crossing_merged_plain_g_1_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "merged, plain (g = 1)",
+      "1"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_crossing_merged_plain_g_1_2",
+    "source_tag": "shRnN1_e19",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_crossing_merged_plain_g_1_2/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_crossing_merged_plain_g_1_2/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "merged, plain (g = 1)",
+      "2"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_crossing_merged_plain_g_1_0",
+    "source_tag": "shRnNZ_e19",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_crossing_merged_plain_g_1_0/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_crossing_merged_plain_g_1_0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "merged, plain (g = 1)",
+      "0"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_crossing_merged_plain_g_1_3",
+    "source_tag": "shRnNq_e19",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_crossing_merged_plain_g_1_3/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_crossing_merged_plain_g_1_3/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "merged, plain (g = 1)",
+      "3"
+    ]
+  },
+  {
+    "id": "crossing_ghost_half_layer_offset",
+    "source_tag": "shRqW1_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/crossing_ghost_half_layer_offset/history.txt.gz",
+      "events": "data/raw/cohesive/crossing_ghost_half_layer_offset/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crossing",
+      "coupling",
+      "3"
+    ]
+  },
+  {
+    "id": "appendix_support_shrq_e19c",
+    "source_tag": "shRq_e19c",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shrq_e19c/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shrq_e19c/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shrq_e19cm025",
+    "source_tag": "shRq_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shrq_e19cm025/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shrq_e19cm025/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shrq_e19ct05",
+    "source_tag": "shRq_e19ct05",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shrq_e19ct05/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shrq_e19ct05/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "appendix_support_shrq_f19",
+    "source_tag": "shRq_f19",
+    "files": {
+      "history": "data/raw/cohesive/appendix_support_shrq_f19/history.txt.gz",
+      "events": "data/raw/cohesive/appendix_support_shrq_f19/events.txt.gz"
+    },
+    "scope": "appendix",
+    "context": []
+  },
+  {
+    "id": "bicrystal_controls_crack_on_the_junction_coupling_0",
+    "source_tag": "sp0RW1_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_crack_on_the_junction_coupling_0/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_crack_on_the_junction_coupling_0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crack on the junction",
+      "coupling",
+      "0"
+    ]
+  },
+  {
+    "id": "corrected_low_start_cases_crack_on_the_junction_energy_matched_start_0_85_published",
+    "source_tag": "sp0Rm_e19",
+    "files": {
+      "history": "data/raw/cohesive/corrected_low_start_cases_crack_on_the_junction_energy_matched_start_0_85_published/history.txt.gz",
+      "events": "data/raw/cohesive/corrected_low_start_cases_crack_on_the_junction_energy_matched_start_0_85_published/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "corrected_low_start",
+      "cases",
+      "crack on the junction, energy-matched",
+      "start 0.85 (published)"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_crack_on_the_junction_merged_energy_matched",
+    "source_tag": "sp0Rm_e19lo",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_crack_on_the_junction_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_crack_on_the_junction_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crack on the junction",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "corrected_low_start_cases_crack_on_the_junction_direct_reconnection_start_0_85_published",
+    "source_tag": "sp0RnN_e19",
+    "files": {
+      "history": "data/raw/cohesive/corrected_low_start_cases_crack_on_the_junction_direct_reconnection_start_0_85_published/history.txt.gz",
+      "events": "data/raw/cohesive/corrected_low_start_cases_crack_on_the_junction_direct_reconnection_start_0_85_published/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "corrected_low_start",
+      "cases",
+      "crack on the junction, direct reconnection",
+      "start 0.85 (published)"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_crack_on_the_junction_merged_plain_g_1",
+    "source_tag": "sp0RnN_e19lo",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_crack_on_the_junction_merged_plain_g_1/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_crack_on_the_junction_merged_plain_g_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "crack on the junction",
+      "merged, plain (g = 1)"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_parallel_junction_2_h_above_coupling_0",
+    "source_tag": "spRW1_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_parallel_junction_2_h_above_coupling_0/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_parallel_junction_2_h_above_coupling_0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "parallel, junction 2 h above",
+      "coupling",
+      "0"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_parallel_junction_2_h_above_merged_energy_matched_0",
+    "source_tag": "spRm_e19",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_parallel_junction_2_h_above_merged_energy_matched_0/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_parallel_junction_2_h_above_merged_energy_matched_0/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "parallel, junction 2 h above",
+      "merged, energy-matched",
+      "0"
+    ]
+  },
+  {
+    "id": "corrected_low_start_cases_parallel_junction_2_h_above_direct_reconnection_start_0_85_published",
+    "source_tag": "spRnN_e19",
+    "files": {
+      "history": "data/raw/cohesive/corrected_low_start_cases_parallel_junction_2_h_above_direct_reconnection_start_0_85_published/history.txt.gz",
+      "events": "data/raw/cohesive/corrected_low_start_cases_parallel_junction_2_h_above_direct_reconnection_start_0_85_published/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "corrected_low_start",
+      "cases",
+      "parallel junction 2 h above, direct reconnection",
+      "start 0.85 (published)"
+    ]
+  },
+  {
+    "id": "bicrystal_controls_parallel_junction_2_h_above_merged_plain_g_1",
+    "source_tag": "spRnN_e19lo",
+    "files": {
+      "history": "data/raw/cohesive/bicrystal_controls_parallel_junction_2_h_above_merged_plain_g_1/history.txt.gz",
+      "events": "data/raw/cohesive/bicrystal_controls_parallel_junction_2_h_above_merged_plain_g_1/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "bicrystal_controls",
+      "parallel, junction 2 h above",
+      "merged, plain (g = 1)"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_3_coupling",
+    "source_tag": "tl13rW_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_3_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_3_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "3",
+      "coupling"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_4_coupling",
+    "source_tag": "tl17rW_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_4_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_4_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "4",
+      "coupling"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_4_merged_energy_matched",
+    "source_tag": "tl17rm_e19",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_4_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_4_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "4",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_2_coupling",
+    "source_tag": "tlq12W_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_2_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_2_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "2",
+      "coupling"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_2_merged_energy_matched",
+    "source_tag": "tlq12m_e19",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_2_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_2_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "2",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_0_coupling",
+    "source_tag": "tlq3W_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_0_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_0_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "0",
+      "coupling"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_0_merged_energy_matched",
+    "source_tag": "tlq3m_e19",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_0_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_0_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "0",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_1_coupling",
+    "source_tag": "tlq8W_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_1_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_1_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "1",
+      "coupling"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_1_merged_energy_matched",
+    "source_tag": "tlq8m_e19",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_1_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_1_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "1",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_6_coupling",
+    "source_tag": "tw13rW_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_6_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_6_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "6",
+      "coupling"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_6_merged_energy_matched",
+    "source_tag": "tw13rm_e19",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_6_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_6_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "6",
+      "merged, energy-matched"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_7_coupling",
+    "source_tag": "tw17rW_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_7_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_7_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "7",
+      "coupling"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_8_coupling",
+    "source_tag": "tw5rW_e19cm025",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_8_coupling/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_8_coupling/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "8",
+      "coupling"
+    ]
+  },
+  {
+    "id": "fe_si_transmission_cases_8_merged_energy_matched",
+    "source_tag": "tw5rm_e19",
+    "files": {
+      "history": "data/raw/cohesive/fe_si_transmission_cases_8_merged_energy_matched/history.txt.gz",
+      "events": "data/raw/cohesive/fe_si_transmission_cases_8_merged_energy_matched/events.txt.gz"
+    },
+    "scope": "main",
+    "context": [
+      "fe_si_transmission",
+      "cases",
+      "8",
+      "merged, energy-matched"
+    ]
+  }
+]

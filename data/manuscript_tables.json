@@ -1,0 +1,635 @@
+{
+  "manuscript_sha256": "430c0a7918a293d20895e4faac8208f0ec7a69e00bb0609fd0a26013573ad1d5",
+  "tables": [
+    {
+      "number": 1,
+      "caption": "Crossing measures for lattice registrations",
+      "file": "data/tables/table_01_crossing_measures_for_lattice_registrations.csv",
+      "rows": [
+        [
+          "Construction",
+          "Zero shift",
+          "s0",
+          "s1",
+          "sq"
+        ],
+        [
+          "Single crystal",
+          "1.1435",
+          "1.1435",
+          "1.1435",
+          "1.1435"
+        ],
+        [
+          "Energy-matched merging",
+          "1.1435",
+          "Not connected",
+          "1.912",
+          "1.994"
+        ],
+        [
+          "Direct reconnection",
+          "1.1435",
+          "Not connected",
+          "1.989",
+          "2.408"
+        ],
+        [
+          "Ghost coupling",
+          "1.1515",
+          "1.1515",
+          "1.1563",
+          "1.1405"
+        ]
+      ]
+    },
+    {
+      "number": 2,
+      "caption": "Initiation and propagation along a junction",
+      "file": "data/tables/table_02_initiation_and_propagation_along_a_junction.csv",
+      "rows": [
+        [
+          "Construction",
+          "Initiation",
+          "Propagation",
+          "Propagation difference"
+        ],
+        [
+          "Single crystal",
+          "1.045",
+          "1.195",
+          "—"
+        ],
+        [
+          "Ghost coupling",
+          "0.985",
+          "1.185",
+          "−0.8%"
+        ],
+        [
+          "Energy-matched merging",
+          "0.815",
+          "0.935",
+          "−22%"
+        ],
+        [
+          "Direct reconnection",
+          "0.520",
+          "0.585",
+          "−51%"
+        ]
+      ]
+    },
+    {
+      "number": 3,
+      "caption": "Crack paths and final loads under refinement",
+      "file": "data/tables/table_03_crack_paths_and_final_loads_under_refinement.csv",
+      "rows": [
+        [
+          "Case",
+          "Construction",
+          "drefh",
+          "Final λ",
+          "Difference"
+        ],
+        [
+          "s1; h",
+          "Ghost coupling; μ = 0.1",
+          "0.58",
+          "1.152",
+          "−0.6%"
+        ],
+        [
+          "s1; h",
+          "Energy-matched merging",
+          "2.52",
+          "1.336",
+          "+15%"
+        ],
+        [
+          "s2; h",
+          "Ghost coupling; μ = 0.1",
+          "0.38",
+          "1.145",
+          "−1.2%"
+        ],
+        [
+          "s2; h",
+          "Energy-matched merging",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "s3; h",
+          "Ghost coupling; μ = 0.1",
+          "0.31",
+          "1.152",
+          "−0.6%"
+        ],
+        [
+          "s3; h",
+          "Energy-matched merging",
+          "8.12",
+          "1.498",
+          "+29%"
+        ],
+        [
+          "s4; h",
+          "Ghost coupling; μ = 0.1",
+          "0.83",
+          "1.144",
+          "−1.3%"
+        ],
+        [
+          "s4; h",
+          "Energy-matched merging",
+          "0.65",
+          "2.504 (cap)",
+          "+116%"
+        ],
+        [
+          "s1; h/2",
+          "Ghost coupling; μ = 0.1",
+          "0.33",
+          "1.084",
+          "−0.9%"
+        ],
+        [
+          "s2; h/2",
+          "Ghost coupling; μ = 0.1",
+          "0.32",
+          "1.085",
+          "+0.2%"
+        ],
+        [
+          "s3; h/2",
+          "Ghost coupling; μ = 0.1",
+          "0.24",
+          "1.085",
+          "+0.2%"
+        ]
+      ]
+    },
+    {
+      "number": 4,
+      "caption": "Intermediate holds at transparent boundaries",
+      "file": "data/tables/table_04_intermediate_holds_at_transparent_boundaries.csv",
+      "rows": [
+        [
+          "Case",
+          "Ghost coupling: steps / excess",
+          "Energy-matched merging: steps / excess"
+        ],
+        [
+          "s1; h",
+          "0 / —",
+          "54 / +28%"
+        ],
+        [
+          "s2; h",
+          "0 / —",
+          "No main-crack growth"
+        ],
+        [
+          "s3; h",
+          "0 / —",
+          "88 / +51%"
+        ],
+        [
+          "s4; h",
+          "0 / —",
+          "283 / +116%; cap"
+        ],
+        [
+          "s1; h/2",
+          "14 / +5.7%",
+          "Not recomputed"
+        ],
+        [
+          "s2; h/2",
+          "0 / —",
+          "Not recomputed"
+        ],
+        [
+          "s3; h/2",
+          "11 / +8.4%",
+          "Not recomputed"
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "caption": "Single-junction crossing under in-plane refinement",
+      "file": "data/tables/table_05_single_junction_crossing_under_in_plane_refinement.csv",
+      "rows": [
+        [
+          "Construction",
+          "Coarse",
+          "Refined"
+        ],
+        [
+          "Single crystal",
+          "1.108",
+          "1.060"
+        ],
+        [
+          "Ghost coupling",
+          "1.103",
+          "1.060"
+        ],
+        [
+          "Energy-matched merging",
+          "1.872",
+          "1.598"
+        ]
+      ]
+    },
+    {
+      "number": 6,
+      "caption": "Initiation in a transparent tensile strip",
+      "file": "data/tables/table_06_initiation_in_a_transparent_tensile_strip.csv",
+      "rows": [
+        [
+          "Construction",
+          "Initiation load",
+          "Location"
+        ],
+        [
+          "Single crystal",
+          "0.985",
+          "Pre-crack tip"
+        ],
+        [
+          "Ghost coupling",
+          "0.980",
+          "Pre-crack tip"
+        ],
+        [
+          "Energy-matched merging",
+          "0.775",
+          "Remote junction"
+        ]
+      ]
+    },
+    {
+      "number": 7,
+      "caption": "Boundary-following fractions with bond softening",
+      "file": "data/tables/table_07_boundary_following_fractions_with_bond_softening.csv",
+      "rows": [
+        [
+          "Construction",
+          "0°",
+          "17°",
+          "40°",
+          "Mean"
+        ],
+        [
+          "Single crystal; chance",
+          "0.17 / 0.17 / 0.28",
+          "0.11 / 0.11 / 0.16",
+          "0.11 / 0.15 / 0.22",
+          "0.16"
+        ],
+        [
+          "Original merging",
+          "0.61 / 0.53 / 0.74",
+          "0.62 / 0.31 / 0.71",
+          "0.30 / 0.67 / 0.38",
+          "0.54"
+        ],
+        [
+          "Paired ghost coupling",
+          "0.38 / 0.19 / 0.17",
+          "0.13 / 0.22 / 0.16",
+          "0.34 / 0.12 / 0.45",
+          "0.24"
+        ]
+      ]
+    },
+    {
+      "number": 8,
+      "caption": "Refinement sensitivity of boundary-following fractions",
+      "file": "data/tables/table_08_refinement_sensitivity_of_boundary_following_fractions.csv",
+      "rows": [
+        [
+          "Law and construction",
+          "Coarse; 0.75a",
+          "Fine; 0.75a",
+          "Fine; 1.5a"
+        ],
+        [
+          "m = 10; single crystal",
+          "0.11 / 0.11 / 0.16",
+          "0.09 / 0.05 / 0.03",
+          "0.15 / 0.10 / 0.09"
+        ],
+        [
+          "m = 10; original merging",
+          "0.62 / 0.31 / 0.71",
+          "0.11 / 0.35 / 0.40",
+          "0.19 / 0.43 / 0.45"
+        ],
+        [
+          "m = 10; paired ghost coupling",
+          "0.13 / 0.22 / 0.16",
+          "0.13 / 0.17 / 0.19",
+          "0.17 / 0.23 / 0.27"
+        ]
+      ]
+    },
+    {
+      "number": 9,
+      "caption": "Fe–Si bicrystal crossing ratios",
+      "file": "data/tables/table_09_fe_si_bicrystal_crossing_ratios.csv",
+      "rows": [
+        [
+          "Model boundary",
+          "Experimental (tilt, twist), deg",
+          "Measured ratio",
+          "Ghost coupling",
+          "Energy-matched merging"
+        ],
+        [
+          "Tilt 3°",
+          "(3, 3); #11",
+          "1.036",
+          "1.033",
+          "1.690"
+        ],
+        [
+          "Tilt 8°",
+          "(8, 4); #7",
+          "1.042",
+          "1.033",
+          "1.752"
+        ],
+        [
+          "Tilt 12°",
+          "(12, 3); #2",
+          "1.049",
+          "0.989",
+          "1.846"
+        ],
+        [
+          "Tilt 22.6°",
+          "—",
+          "—",
+          "0.994",
+          "Not calculated"
+        ],
+        [
+          "Tilt 28.1°",
+          "(30, 4); #16",
+          "1.121",
+          "1.011",
+          "1.294"
+        ],
+        [
+          "Twist 22.6°",
+          "(8,19); (9,21)",
+          "1.192–1.226",
+          "1.025",
+          "No crossing"
+        ],
+        [
+          "Twist 28.1°",
+          "(13.1,26.1); #9",
+          "1.283",
+          "1.026",
+          "Not calculated"
+        ],
+        [
+          "Twist 36.9°",
+          "(16,31.1); (10,32); (7,42.1)",
+          "1.425–1.575",
+          "1.039",
+          "1.298"
+        ]
+      ]
+    },
+    {
+      "number": 10,
+      "caption": "Normalized Mo bicrystal fracture strength",
+      "file": "data/tables/table_10_normalized_mo_bicrystal_fracture_strength.csv",
+      "rows": [
+        [
+          "Angle, deg",
+          "Measured GB fracture",
+          "Intragranular lower bounds",
+          "Ghost coupling",
+          "Energy-matched merging: reg. 0 / 1"
+        ],
+        [
+          "9",
+          "0.58",
+          "0.78–1.00; 2 specimens",
+          "0.92",
+          "0.58 / 0.54"
+        ],
+        [
+          "22.6",
+          "0.57",
+          "—",
+          "0.93",
+          "0.70 / 0.51"
+        ],
+        [
+          "36.9",
+          "0.47",
+          "—",
+          "0.97",
+          "0.78 / 0.34"
+        ],
+        [
+          "54",
+          "0.57",
+          "0.67–0.78",
+          "1.01 at 53.1°",
+          "0.73 / 0.53"
+        ],
+        [
+          "71",
+          "0.81",
+          "—",
+          "1.05",
+          "0.56 / 0.59"
+        ]
+      ]
+    },
+    {
+      "number": 11,
+      "caption": "Interpolation weights across regularization levels",
+      "file": "data/tables/table_11_interpolation_weights_across_regularization_levels.csv",
+      "rows": [
+        [
+          "Weights",
+          "Patch residual",
+          "Λb: median / p99 / max",
+          "Minimum / maximum w"
+        ],
+        [
+          "μ = 10⁻³",
+          "27.0",
+          "2.83 / 10.95 / 17.87",
+          "−3.60 / 2.70"
+        ],
+        [
+          "μ = 0.1",
+          "27.8",
+          "1.51 / 3.48 / 5.05",
+          "−0.81 / 0.87"
+        ],
+        [
+          "μ = 1",
+          "42.6",
+          "1.25 / 2.28 / 2.87",
+          "−0.38 / 0.87"
+        ],
+        [
+          "MLS",
+          "119.9",
+          "1.05 / 2.11 / 2.87",
+          "−0.30 / 0.92"
+        ]
+      ]
+    },
+    {
+      "number": 12,
+      "caption": "Cohesive-fracture work and wall-clock measurements",
+      "file": "data/tables/table_12_cohesive_fracture_work_and_wall_clock_measurements.csv",
+      "rows": [
+        [
+          "Run family",
+          "Construction",
+          "Runs",
+          "PCG / solve",
+          "Work: median (range)",
+          "Wall time (h)"
+        ],
+        [
+          "Transparent; h",
+          "Single crystal",
+          "4/4",
+          "78",
+          "1.00",
+          "0.26–0.31"
+        ],
+        [
+          "Transparent; h",
+          "Energy-matched merging",
+          "4/4",
+          "93",
+          "1.17 (0.41–2.60)",
+          "0.29–1.27"
+        ],
+        [
+          "Transparent; h",
+          "Ghost coupling; μ = 10⁻³",
+          "4/4",
+          "160",
+          "3.79 (2.21–4.54)",
+          "0.30–0.67"
+        ],
+        [
+          "Transparent; h",
+          "Ghost coupling; μ = 0.1",
+          "4/4",
+          "85",
+          "1.61 (1.57–1.85)",
+          "0.28–0.71"
+        ],
+        [
+          "Transparent; h/2",
+          "Single crystal",
+          "3/3",
+          "136",
+          "1.00",
+          "4.68–6.71"
+        ],
+        [
+          "Transparent; h/2",
+          "Ghost coupling; μ = 0.1",
+          "3/3",
+          "159",
+          "1.87 (1.35–2.10)",
+          "6.10–10.09"
+        ]
+      ]
+    },
+    {
+      "number": 13,
+      "caption": "Transparent boundary crossing",
+      "file": "data/tables/table_13_transparent_boundary_crossing.csv",
+      "rows": [
+        [
+          "Construction",
+          "s0",
+          "s1",
+          "sq"
+        ],
+        [
+          "Owner-only force transfer; static support",
+          "1.479",
+          "1.333",
+          ">1.37"
+        ],
+        [
+          "Ghost coupling; static support",
+          "1.419",
+          "1.228",
+          "1.407"
+        ],
+        [
+          "One-sided; t = 0.25",
+          "1.142",
+          "1.147",
+          "1.137"
+        ],
+        [
+          "One-sided; t = 0.1",
+          "1.151",
+          "1.295",
+          "1.301"
+        ]
+      ]
+    },
+    {
+      "number": 14,
+      "caption": "Crossing sensitivity to the partition threshold",
+      "file": "data/tables/table_14_crossing_sensitivity_to_the_partition_threshold.csv",
+      "rows": [
+        [
+          "t",
+          "s0",
+          "s1",
+          "sq"
+        ],
+        [
+          "0.05",
+          "1.151",
+          "1.156",
+          "1.142"
+        ],
+        [
+          "0.10",
+          "1.161",
+          "1.147",
+          "1.139"
+        ],
+        [
+          "0.25",
+          "1.151",
+          "1.156",
+          "1.140"
+        ],
+        [
+          "0.50",
+          "1.151",
+          "1.145",
+          "1.137"
+        ]
+      ]
+    }
+  ]
+}

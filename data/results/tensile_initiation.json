@@ -1,0 +1,405 @@
+{
+  "misoriented PX_s1_f0": {
+    "merged, energy-matched": {
+      "tag": "pxu1m_naive_e19",
+      "pairs": 1623,
+      "gb_share": 0.34011090573012936,
+      "independent_cracks": [
+        {
+          "pairs": 3,
+          "lam": 1.016296,
+          "at": [
+            48.9,
+            6.5
+          ],
+          "gb_share": 1.0
+        },
+        {
+          "pairs": 3,
+          "lam": 1.026296,
+          "at": [
+            70.8,
+            5.0
+          ],
+          "gb_share": 1.0
+        },
+        {
+          "pairs": 3,
+          "lam": 1.031296,
+          "at": [
+            62.9,
+            5.2
+          ],
+          "gb_share": 1.0
+        }
+      ],
+      "main_pairs": 1614,
+      "nucleations": 5,
+      "nucleations_on_gb": 3,
+      "first_sep": [
+        0.975,
+        [
+          12.0,
+          -0.5
+        ],
+        false
+      ],
+      "first_nucleation": [
+        0.886296,
+        [
+          24.8,
+          -0.8
+        ],
+        false
+      ],
+      "final_lam": 1.03405,
+      "stop": 3
+    },
+    "coupling, mu 1e-1": {
+      "tag": "pxuW1_ghost_e19cm025",
+      "pairs": 2286,
+      "gb_share": 0.2874015748031496,
+      "independent_cracks": [],
+      "main_pairs": 2286,
+      "nucleations": 4,
+      "nucleations_on_gb": 2,
+      "first_sep": [
+        0.975,
+        [
+          12.0,
+          -0.5
+        ],
+        false
+      ],
+      "first_nucleation": [
+        0.847158,
+        [
+          59.4,
+          -5.7
+        ],
+        false
+      ],
+      "final_lam": 0.90851,
+      "stop": 3
+    }
+  },
+  "misoriented PX_s2_f0": {
+    "merged, energy-matched": {
+      "tag": "pxu2m_naive_e19",
+      "pairs": 1214,
+      "gb_share": 0.600494233937397,
+      "independent_cracks": [
+        {
+          "pairs": 1076,
+          "lam": 0.905,
+          "at": [
+            44.3,
+            -6.8
+          ],
+          "gb_share": 0.5520446096654275
+        },
+        {
+          "pairs": 135,
+          "lam": 0.915,
+          "at": [
+            29.0,
+            -12.9
+          ],
+          "gb_share": 1.0
+        }
+      ],
+      "main_pairs": 3,
+      "nucleations": 5,
+      "nucleations_on_gb": 5,
+      "first_sep": [
+        0.905,
+        [
+          44.3,
+          -6.8
+        ],
+        true
+      ],
+      "first_nucleation": [
+        0.905,
+        [
+          44.3,
+          -6.8
+        ],
+        true
+      ],
+      "final_lam": 0.92422,
+      "stop": 3
+    },
+    "coupling, mu 1e-1": {
+      "tag": "pxuW2_ghost_e19cm025",
+      "pairs": 2218,
+      "gb_share": 0.23309287646528404,
+      "independent_cracks": [],
+      "main_pairs": 2218,
+      "nucleations": 5,
+      "nucleations_on_gb": 1,
+      "first_sep": [
+        0.965,
+        [
+          12.0,
+          -0.5
+        ],
+        false
+      ],
+      "first_nucleation": [
+        0.886385,
+        [
+          44.5,
+          5.9
+        ],
+        false
+      ],
+      "final_lam": 0.87337,
+      "stop": 3
+    }
+  },
+  "misoriented PX_s3_f0": {
+    "merged, energy-matched": {
+      "tag": "pxu3m_naive_e19",
+      "pairs": 48,
+      "gb_share": 1.0,
+      "independent_cracks": [
+        {
+          "pairs": 33,
+          "lam": 0.905,
+          "at": [
+            55.6,
+            -16.7
+          ],
+          "gb_share": 1.0
+        },
+        {
+          "pairs": 6,
+          "lam": 0.905,
+          "at": [
+            69.9,
+            -10.4
+          ],
+          "gb_share": 1.0
+        },
+        {
+          "pairs": 6,
+          "lam": 0.905,
+          "at": [
+            123.8,
+            -2.5
+          ],
+          "gb_share": 1.0
+        },
+        {
+          "pairs": 3,
+          "lam": 0.905,
+          "at": [
+            127.8,
+            -2.9
+          ],
+          "gb_share": 1.0
+        }
+      ],
+      "main_pairs": 0,
+      "nucleations": 3,
+      "nucleations_on_gb": 3,
+      "first_sep": [
+        0.905,
+        [
+          55.6,
+          -16.7
+        ],
+        true
+      ],
+      "first_nucleation": [
+        0.905,
+        [
+          55.6,
+          -16.7
+        ],
+        true
+      ],
+      "final_lam": 0.905,
+      "stop": 3
+    },
+    "coupling, mu 1e-1": {
+      "tag": "pxuW3_ghost_e19cm025",
+      "pairs": 2185,
+      "gb_share": 0.24759725400457666,
+      "independent_cracks": [],
+      "main_pairs": 2185,
+      "nucleations": 5,
+      "nucleations_on_gb": 1,
+      "first_sep": [
+        0.945,
+        [
+          12.0,
+          -0.5
+        ],
+        false
+      ],
+      "first_nucleation": [
+        0.838557,
+        [
+          38.8,
+          -5.0
+        ],
+        false
+      ],
+      "final_lam": 0.89019,
+      "stop": 3
+    }
+  },
+  "transparent PXTU_s1": {
+    "single crystal (PXTUz_s1)": {
+      "tag": "pxtuz1_naive_e19",
+      "pairs": 2082,
+      "gb_share": 0.1440922190201729,
+      "independent_cracks": [],
+      "main_pairs": 2082,
+      "nucleations": 1,
+      "nucleations_on_gb": 1,
+      "first_sep": [
+        0.985,
+        [
+          12.0,
+          -0.5
+        ],
+        false
+      ],
+      "first_nucleation": [
+        0.958085,
+        [
+          127.2,
+          -0.8
+        ],
+        true
+      ],
+      "final_lam": 0.95809,
+      "stop": 3
+    }
+  },
+  "transparent PXTU_s2": {
+    "single crystal (PXTUz_s1)": {
+      "tag": "pxtuz1_naive_e19",
+      "pairs": 2082,
+      "gb_share": 0.15706051873198848,
+      "independent_cracks": [],
+      "main_pairs": 2082,
+      "nucleations": 1,
+      "nucleations_on_gb": 1,
+      "first_sep": [
+        0.985,
+        [
+          12.0,
+          -0.5
+        ],
+        false
+      ],
+      "first_nucleation": [
+        0.958085,
+        [
+          127.2,
+          -0.8
+        ],
+        true
+      ],
+      "final_lam": 0.95809,
+      "stop": 3
+    },
+    "merged, energy-matched": {
+      "tag": "pxtu2m_naive_e19",
+      "pairs": 93,
+      "gb_share": 1.0,
+      "independent_cracks": [
+        {
+          "pairs": 93,
+          "lam": 0.905,
+          "at": [
+            106.5,
+            -11.0
+          ],
+          "gb_share": 1.0
+        }
+      ],
+      "main_pairs": 0,
+      "nucleations": 1,
+      "nucleations_on_gb": 1,
+      "first_sep": [
+        0.905,
+        [
+          106.5,
+          -11.0
+        ],
+        true
+      ],
+      "first_nucleation": [
+        0.905,
+        [
+          106.5,
+          -11.0
+        ],
+        true
+      ],
+      "final_lam": 0.905,
+      "stop": 3
+    },
+    "coupling, mu 1e-1": {
+      "tag": "pxtu2W1_ghost_e19cm025",
+      "pairs": 2124,
+      "gb_share": 0.1271186440677966,
+      "independent_cracks": [],
+      "main_pairs": 2124,
+      "nucleations": 2,
+      "nucleations_on_gb": 2,
+      "first_sep": [
+        0.98,
+        [
+          12.0,
+          -0.5
+        ],
+        false
+      ],
+      "first_nucleation": [
+        0.881909,
+        [
+          47.7,
+          0.2
+        ],
+        true
+      ],
+      "final_lam": 0.94745,
+      "stop": 3
+    }
+  },
+  "transparent PXTU_s3": {
+    "single crystal (PXTUz_s1)": {
+      "tag": "pxtuz1_naive_e19",
+      "pairs": 2082,
+      "gb_share": 0.13544668587896252,
+      "independent_cracks": [],
+      "main_pairs": 2082,
+      "nucleations": 1,
+      "nucleations_on_gb": 0,
+      "first_sep": [
+        0.985,
+        [
+          12.0,
+          -0.5
+        ],
+        false
+      ],
+      "first_nucleation": [
+        0.958085,
+        [
+          127.2,
+          -0.8
+        ],
+        false
+      ],
+      "final_lam": 0.95809,
+      "stop": 3
+    }
+  }
+}

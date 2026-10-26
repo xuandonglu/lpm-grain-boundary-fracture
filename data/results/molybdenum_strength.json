@@ -1,0 +1,435 @@
+{
+  "runs": {
+    "single": {
+      "tag": "moS0_e19",
+      "psi": 0.0,
+      "f": 0.0,
+      "shift": null,
+      "kind": "plain",
+      "steps": 20,
+      "lam_first": 0.310343,
+      "F_first": 2.06101,
+      "F_max": 2418.8545,
+      "lam_at_Fmax": 0.39,
+      "lam_last": 0.310343,
+      "nsep_last": 1604,
+      "first_dist_to_boundary": 5.861284289276808,
+      "first_x": [
+        0.0,
+        47.5
+      ],
+      "share_on_boundary": 0.043640897755610975,
+      "strength_ratio": 1.0
+    },
+    "9 coupling": {
+      "tag": "moS9W_e19cm025",
+      "psi": 9.0,
+      "f": 0.2552,
+      "shift": null,
+      "kind": "ghost",
+      "steps": 9,
+      "lam_first": 0.227847,
+      "F_first": 7.028335,
+      "F_max": 2230.3555,
+      "lam_at_Fmax": 0.28,
+      "lam_last": 0.227847,
+      "nsep_last": 2889,
+      "first_dist_to_boundary": 0.17135835929387333,
+      "first_x": [
+        0.2296,
+        47.6674
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.9220709637557779
+    },
+    "9 merged reg0": {
+      "tag": "moS9m0_e19",
+      "psi": 9.0,
+      "f": 0.2552,
+      "shift": null,
+      "kind": "emc",
+      "steps": 17,
+      "lam_first": 0.164759,
+      "F_first": 628.617,
+      "F_max": 1410.0425,
+      "lam_at_Fmax": 0.16,
+      "lam_last": 0.183011,
+      "nsep_last": 690,
+      "first_dist_to_boundary": 0.2596121212121212,
+      "first_x": [
+        11.8119,
+        41.1482
+      ],
+      "share_on_boundary": 0.9855072463768116,
+      "strength_ratio": 0.5829381221565828
+    },
+    "9 merged reg1": {
+      "tag": "moS9m1_e19",
+      "psi": 9.0,
+      "f": 0.2552,
+      "shift": [
+        0.37,
+        0.61,
+        0.23
+      ],
+      "kind": "emc",
+      "steps": 13,
+      "lam_first": 0.137894,
+      "F_first": 702.979,
+      "F_max": 1301.226,
+      "lam_at_Fmax": 0.14,
+      "lam_last": 0.14845,
+      "nsep_last": 575,
+      "first_dist_to_boundary": 0.16568448275862072,
+      "first_x": [
+        5.2704,
+        30.2887
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.5379513319217837
+    },
+    "23 coupling": {
+      "tag": "moS23W_e19cm025",
+      "psi": 22.62,
+      "f": 0.2887,
+      "shift": null,
+      "kind": "ghost",
+      "steps": 23,
+      "lam_first": 0.227196,
+      "F_first": 1.014794,
+      "F_max": 2258.369,
+      "lam_at_Fmax": 0.27,
+      "lam_last": 0.227196,
+      "nsep_last": 2989,
+      "first_dist_to_boundary": 0.15851893609902976,
+      "first_x": [
+        0.1961,
+        47.6562
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.9336522721809023
+    },
+    "23 merged reg0": {
+      "tag": "moS23m0_e19",
+      "psi": 22.62,
+      "f": 0.2887,
+      "shift": null,
+      "kind": "emc",
+      "steps": 15,
+      "lam_first": 0.176355,
+      "F_first": 84.09125,
+      "F_max": 1695.0335,
+      "lam_at_Fmax": 0.19,
+      "lam_last": 0.176355,
+      "nsep_last": 935,
+      "first_dist_to_boundary": 0.3758192513368984,
+      "first_x": [
+        0.2942,
+        46.9698
+      ],
+      "share_on_boundary": 0.9946524064171123,
+      "strength_ratio": 0.7007587682516663
+    },
+    "23 merged reg1": {
+      "tag": "moS23m1_e19",
+      "psi": 22.62,
+      "f": 0.2887,
+      "shift": [
+        0.37,
+        0.61,
+        0.23
+      ],
+      "kind": "emc",
+      "steps": 9,
+      "lam_first": 0.126139,
+      "F_first": 882.844,
+      "F_max": 1225.7885,
+      "lam_at_Fmax": 0.125,
+      "lam_last": 0.126139,
+      "nsep_last": 280,
+      "first_dist_to_boundary": 0.2176160714285714,
+      "first_x": [
+        0.4357,
+        47.732
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.5067640488503959
+    },
+    "37 coupling": {
+      "tag": "moS37W_e19cm025",
+      "psi": 36.87,
+      "f": 0.2535,
+      "shift": null,
+      "kind": "ghost",
+      "steps": 25,
+      "lam_first": 0.231775,
+      "F_first": 1.118216,
+      "F_max": 2355.6275,
+      "lam_at_Fmax": 0.29,
+      "lam_last": 0.231775,
+      "nsep_last": 2986,
+      "first_dist_to_boundary": 0.16752089752176824,
+      "first_x": [
+        0.1581,
+        47.5923
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.9738607675658044
+    },
+    "37 merged reg0": {
+      "tag": "moS37m0_e19",
+      "psi": 36.87,
+      "f": 0.2535,
+      "shift": null,
+      "kind": "emc",
+      "steps": 18,
+      "lam_first": 0.198964,
+      "F_first": 16.57513,
+      "F_max": 1892.7745,
+      "lam_at_Fmax": 0.215,
+      "lam_last": 0.198964,
+      "nsep_last": 1050,
+      "first_dist_to_boundary": 0.42119904761904764,
+      "first_x": [
+        0.1581,
+        47.5923
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.7825086213329492
+    },
+    "37 merged reg1": {
+      "tag": "moS37m1_e19",
+      "psi": 36.87,
+      "f": 0.2535,
+      "shift": [
+        0.37,
+        0.61,
+        0.23
+      ],
+      "kind": "emc",
+      "steps": 6,
+      "lam_first": 0.09703,
+      "F_first": 445.9644,
+      "F_max": 820.6465,
+      "lam_at_Fmax": 0.08,
+      "lam_last": 0.09703,
+      "nsep_last": 300,
+      "first_dist_to_boundary": 0.2755,
+      "first_x": [
+        0.5147,
+        47.1448
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.3392707167793681
+    },
+    "53 coupling": {
+      "tag": "moS53W_e19cm025",
+      "psi": 53.13,
+      "f": 0.2669,
+      "shift": null,
+      "kind": "ghost",
+      "steps": 26,
+      "lam_first": 0.240489,
+      "F_first": 6.109295,
+      "F_max": 2433.137,
+      "lam_at_Fmax": 0.295,
+      "lam_last": 0.240489,
+      "nsep_last": 2981,
+      "first_dist_to_boundary": 0.1731012411942301,
+      "first_x": [
+        0.1118,
+        47.7401
+      ],
+      "share_on_boundary": 0.9989936262998994,
+      "strength_ratio": 1.0059046544552392
+    },
+    "53 merged reg0": {
+      "tag": "moS53m0_e19",
+      "psi": 53.13,
+      "f": 0.2669,
+      "shift": null,
+      "kind": "emc",
+      "steps": 15,
+      "lam_first": 0.178136,
+      "F_first": 24.859895,
+      "F_max": 1759.03,
+      "lam_at_Fmax": 0.19,
+      "lam_last": 0.178136,
+      "nsep_last": 950,
+      "first_dist_to_boundary": 0.16207578947368417,
+      "first_x": [
+        0.2236,
+        47.181
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.7272161264763962
+    },
+    "53 merged reg1": {
+      "tag": "moS53m1_e19",
+      "psi": 53.13,
+      "f": 0.2669,
+      "shift": [
+        0.37,
+        0.61,
+        0.23
+      ],
+      "kind": "emc",
+      "steps": 12,
+      "lam_first": 0.165,
+      "F_first": 1044.1595,
+      "F_max": 1273.064,
+      "lam_at_Fmax": 0.14,
+      "lam_last": 0.165,
+      "nsep_last": 15,
+      "first_dist_to_boundary": 0.14773333333333338,
+      "first_x": [
+        28.1358,
+        47.4778
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.5263086308002404
+    },
+    "71 coupling": {
+      "tag": "moS71W_e19cm025",
+      "psi": 71.0,
+      "f": 0.315,
+      "shift": null,
+      "kind": "ghost",
+      "steps": 26,
+      "lam_first": 0.245372,
+      "F_first": 1.6536075,
+      "F_max": 2528.017,
+      "lam_at_Fmax": 0.295,
+      "lam_last": 0.245372,
+      "nsep_last": 2835,
+      "first_dist_to_boundary": 0.17413671957671958,
+      "first_x": [
+        0.2904,
+        47.6031
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 1.0451298331503611
+    },
+    "71 merged reg0": {
+      "tag": "moS71m0_e19",
+      "psi": 71.0,
+      "f": 0.315,
+      "shift": null,
+      "kind": "emc",
+      "steps": 15,
+      "lam_first": 0.147403,
+      "F_first": 759.667,
+      "F_max": 1363.5785,
+      "lam_at_Fmax": 0.15,
+      "lam_last": 0.161248,
+      "nsep_last": 660,
+      "first_dist_to_boundary": 0.16453676470588238,
+      "first_x": [
+        8.8927,
+        34.3509
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.563729029588179
+    },
+    "71 merged reg1": {
+      "tag": "moS71m1_e19",
+      "psi": 71.0,
+      "f": 0.315,
+      "shift": [
+        0.37,
+        0.61,
+        0.23
+      ],
+      "kind": "emc",
+      "steps": 14,
+      "lam_first": 0.145929,
+      "F_first": 565.182,
+      "F_max": 1414.2565,
+      "lam_at_Fmax": 0.15,
+      "lam_last": 0.156297,
+      "nsep_last": 505,
+      "first_dist_to_boundary": 0.1756955223880597,
+      "first_x": [
+        0.5337,
+        31.3919
+      ],
+      "share_on_boundary": 1.0,
+      "strength_ratio": 0.5846802691108539
+    }
+  },
+  "experiment": {
+    "0": {
+      "gb_mean": null,
+      "tg_mean": 1.0,
+      "n_gb": 0,
+      "n_tg": 3
+    },
+    "2": {
+      "gb_mean": null,
+      "tg_mean": 0.9052419354838711,
+      "n_gb": 0,
+      "n_tg": 3
+    },
+    "9": {
+      "gb_mean": 0.5836693548387097,
+      "tg_mean": 0.8891129032258065,
+      "n_gb": 1,
+      "n_tg": 2
+    },
+    "16": {
+      "gb_mean": 0.6602822580645162,
+      "tg_mean": null,
+      "n_gb": 3,
+      "n_tg": 0
+    },
+    "22": {
+      "gb_mean": 0.5675403225806452,
+      "tg_mean": null,
+      "n_gb": 3,
+      "n_tg": 0
+    },
+    "28": {
+      "gb_mean": 0.5131048387096775,
+      "tg_mean": null,
+      "n_gb": 3,
+      "n_tg": 0
+    },
+    "36": {
+      "gb_mean": 0.4717741935483871,
+      "tg_mean": null,
+      "n_gb": 3,
+      "n_tg": 0
+    },
+    "40": {
+      "gb_mean": null,
+      "tg_mean": 0.6580645161290323,
+      "n_gb": 0,
+      "n_tg": 5
+    },
+    "46": {
+      "gb_mean": 0.5534274193548387,
+      "tg_mean": 0.7878024193548387,
+      "n_gb": 1,
+      "n_tg": 2
+    },
+    "54": {
+      "gb_mean": 0.5715725806451614,
+      "tg_mean": 0.7227822580645161,
+      "n_gb": 1,
+      "n_tg": 3
+    },
+    "64": {
+      "gb_mean": 0.6834677419354839,
+      "tg_mean": null,
+      "n_gb": 3,
+      "n_tg": 0
+    },
+    "71": {
+      "gb_mean": 0.8054435483870969,
+      "tg_mean": null,
+      "n_gb": 3,
+      "n_tg": 0
+    }
+  },
+  "exp_single_MPa": 1653.3333333333333
+}

@@ -1,0 +1,87 @@
+{
+ "reference": {
+  "tag": "sc13r_e18",
+  "start": 0.85,
+  "nsep_at_start": 0,
+  "init": 1.045,
+  "cross": 1.195,
+  "ratio": 1.1435406698564594,
+  "first_x": 12.25,
+  "first_y_rel": 0.0,
+  "tip_final": 26.25
+ },
+ "cases": {
+  "crack on the junction, energy-matched": {
+   "start 0.85 (published)": {
+    "tag": "sp0Rm_e19",
+    "start": 0.85,
+    "nsep_at_start": 5,
+    "init": 0.855,
+    "cross": 0.935,
+    "ratio": 1.0935672514619883,
+    "first_x": 12.685,
+    "first_y_rel": 0.05499999999999999,
+    "tip_final": 36.685
+   },
+   "start 0.50 (corrected)": {
+    "tag": "sp0Rm_e19lo",
+    "start": 0.5,
+    "nsep_at_start": 0,
+    "init": 0.815,
+    "cross": 0.935,
+    "ratio": 1.147239263803681,
+    "first_x": 12.685,
+    "first_y_rel": 0.05499999999999999,
+    "tip_final": 36.685
+   }
+  },
+  "crack on the junction, direct reconnection": {
+   "start 0.85 (published)": {
+    "tag": "sp0RnN_e19",
+    "start": 0.85,
+    "nsep_at_start": 40,
+    "init": 0.829606,
+    "cross": 0.829606,
+    "ratio": 1.0,
+    "first_x": 25.821363636363635,
+    "first_y_rel": 0.054999999999999966,
+    "tip_final": 41.685
+   },
+   "start 0.50 (corrected)": {
+    "tag": "sp0RnN_e19lo",
+    "start": 0.5,
+    "nsep_at_start": 0,
+    "init": 0.52,
+    "cross": 0.585,
+    "ratio": 1.125,
+    "first_x": 12.685,
+    "first_y_rel": 0.05499999999999999,
+    "tip_final": 38.685
+   }
+  },
+  "parallel junction 2 h above, direct reconnection": {
+   "start 0.85 (published)": {
+    "tag": "spRnN_e19",
+    "start": 0.85,
+    "nsep_at_start": 45,
+    "init": 0.855,
+    "cross": 1.11,
+    "ratio": 1.2982456140350878,
+    "first_x": 16.684999999999995,
+    "first_y_rel": 2.0550000000000006,
+    "tip_final": 41.685
+   },
+   "start 0.50 (corrected)": {
+    "tag": "spRnN_e19lo",
+    "start": 0.5,
+    "nsep_at_start": 0,
+    "init": 0.7,
+    "cross": 1.11,
+    "ratio": 1.5857142857142859,
+    "first_x": 14.684999999999999,
+    "first_y_rel": 2.055,
+    "tip_final": 41.685
+   }
+  }
+ }
+}

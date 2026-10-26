@@ -1,0 +1,25 @@
+{
+  "family": "bicrystal",
+  "material": "Fe",
+  "method": "merging",
+  "regularization": 0.1,
+  "geometry": {
+    "mode": "shift",
+    "sigma": 13,
+    "r": 1.2,
+    "shift": "0.37,0.61,0.23",
+    "W": 48,
+    "H": 28,
+    "a0": 12,
+    "xg": 16,
+    "Lz": 5
+  },
+  "solver": {
+    "start_load": 0.5,
+    "end_load": 2.5,
+    "load_step": 0.01,
+    "fine_step": 0.005,
+    "partition_threshold": 0.25,
+    "time_limit_seconds": 3600
+  }
+}

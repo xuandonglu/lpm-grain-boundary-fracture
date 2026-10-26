@@ -1,0 +1,44 @@
+# Ikeda et al. (1999), Journal of the Japan Institute of Metals 63, 179-186, Fig. 8. DOI:10.2320/jinstmet1952.63.2_179.
+# Purified Mo bicrystals, <001> symmetric tilt, four-point bending at 77 K; specimen 1.2 x 1.7 x 32 mm.
+# Digitized from the published plot: approximate stress uncertainty +/-20 MPa, angle uncertainty approximately 1-2 deg.
+# GB denotes boundary fracture; TG denotes intragranular fracture and hence a lower bound on boundary strength.
+phi_deg,sigma_f_MPa,mode
+0,1770,TG
+0,1610,TG
+0,1580,TG
+2,1645,TG
+2,1450,TG
+2,1395,TG
+9,1650,TG
+9,1290,TG
+9,965,GB
+16,1135,GB
+16,1100,GB
+16,1040,GB
+22,975,GB
+22,935,GB
+22,905,GB
+28,875,GB
+28,850,GB
+28,820,GB
+36,810,GB
+36,780,GB
+36,750,GB
+40,1225,TG
+40,1110,TG
+40,1060,TG
+40,1030,TG
+40,1015,TG
+46,1370,TG
+46,1235,TG
+46,915,GB
+54,1285,TG
+54,1195,TG
+54,1105,TG
+54,945,GB
+64,1155,GB
+64,1130,GB
+64,1105,GB
+71,1360,GB
+71,1330,GB
+71,1305,GB

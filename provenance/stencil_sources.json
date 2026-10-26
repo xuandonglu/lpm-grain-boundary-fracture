@@ -1,0 +1,72 @@
+[
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/shRW1.bin",
+    "source_sha256": "f78dbf559ef89c4309bd1ae60876a02ab02f1d96d1a9811ce7fcb3353b714fb9",
+    "destination": "data/stencils/bicrystal_ghost.npz",
+    "destination_sha256": "00c400827f9fd335f48efdebb769fba7ea1e3abeefb6430617f729db94184454",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/moS37W.bin",
+    "source_sha256": "1f8692ab76ecbfeb610351ffe6d3d752328ada929ed1f27397ebb4a642d04df2",
+    "destination": "data/stencils/molybdenum_ghost.npz",
+    "destination_sha256": "68e16c5b45d02489255356aad1fd4e956d40f7ae28b10ce3860b2481aea03afe",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/tlq3W.bin",
+    "source_sha256": "de0fe9c3f67d42f0d11b4b7745505d68a122aa3a63caab76643dc0d3796bbeb6",
+    "destination": "data/stencils/fe_si_tilt_3_ghost.npz",
+    "destination_sha256": "8faa39f6a64886496f0c329b6df72fbcad0fbfab16e3c112bada8905e186c5b6",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/tlq8W.bin",
+    "source_sha256": "e957b550605d0e665866f8cc313d6ccb014d5cf57daa8cf15c3f5c004a4f1a83",
+    "destination": "data/stencils/fe_si_tilt_8_ghost.npz",
+    "destination_sha256": "73dbf147e93e4a38bddb209ec97a4a4a90efc49cbc571dad91f52f742137db1a",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/tlq12W.bin",
+    "source_sha256": "c343a2af0452833b2dd75ad4799f3f2750d6d12c82b4c323e9f0f542b42cee68",
+    "destination": "data/stencils/fe_si_tilt_12_ghost.npz",
+    "destination_sha256": "d07c658c940a056e364a5cef41863547131cf2a5910187a5740cbbcbf4cd08a7",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/tl13rW.bin",
+    "source_sha256": "c61c40c3601f6a6ca20ee979c265443216de1b1a9767ef588528e80b58d7f0f3",
+    "destination": "data/stencils/fe_si_sigma13_tilt_22p6_ghost.npz",
+    "destination_sha256": "341b45f7f05f7cc45ee6f9082d22de6b603365dcfb8368c0fb5f4566a7f27b2a",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/tl17rW.bin",
+    "source_sha256": "53822052d15168b4bacfdfbbb92e3f1c568ac8f2170cb63e5de95f3d9872ae33",
+    "destination": "data/stencils/fe_si_sigma17_tilt_28p1_ghost.npz",
+    "destination_sha256": "f065fee9cc72857611d7bd5dcd60f6239714435029e1d4fc00fb1a2c38b77e59",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/tw13rW.bin",
+    "source_sha256": "fb2a4fc2f53c197badfc6cc2204d5d375b6fe4da01f66e94a6a9c72696cf1aa9",
+    "destination": "data/stencils/fe_si_sigma13_twist_22p6_ghost.npz",
+    "destination_sha256": "d1915ae951ea5161ca24bccff71bceebdaef02734e3b42f26de395556500c9ae",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/tw17rW.bin",
+    "source_sha256": "571d0efbb1733f0e08dd98043962867b781d12258adcb54db839bc0cfad360f0",
+    "destination": "data/stencils/fe_si_sigma17_twist_28p1_ghost.npz",
+    "destination_sha256": "9a1caff0868e2ce4cecbe597b3c1a0c225e76895541449f0a264c305f2c041f4",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  },
+  {
+    "source": "tools/lpmc_build/fork/runs_gh/cases_bx/tw5rW.bin",
+    "source_sha256": "ebc87312ae922a4cdd09d149ed2d207b5dcc487ff041baf11d59257ef783b477",
+    "destination": "data/stencils/fe_si_sigma5_twist_36p9_ghost.npz",
+    "destination_sha256": "f2df4dfea4da693b67842e1d4419239b87af7f1319838c61a145e87535283972",
+    "change": "Extract initial support indices, fitted weights and support-derived boundary protection/cohesive flags; physical geometry, pre-cut/ghost bits and material fingerprint reject modified models."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "figure": 3,
+    "file": "figures/editable/figure_03_weight_construction.drawio",
+    "source": "ai_lpm/paper_writing/figures/paperB_diagram_consistency_20261025/weight_construction.drawio",
+    "sha256": "b11bb72612644b3555f9a540c65ac690a94271bd2d7b0eb4119785c0d67a39e6"
+  },
+  {
+    "figure": 5,
+    "file": "figures/editable/figure_05_single_crossing.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/single_crossing.svg",
+    "sha256": "3a76253b9bcc1ae53311611b53a948232cb771e7ea49bbf6f7ff1b8e4504e3c1"
+  },
+  {
+    "figure": 5,
+    "file": "figures/editable/figure_05_single_parallel.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/single_parallel.svg",
+    "sha256": "0e5c37c6db25a94c626272ae25ab5a6f4c427b4390a4e700da5bee8ee0376863"
+  },
+  {
+    "figure": 5,
+    "file": "figures/editable/figure_05_layer_registration.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/layer_registration.svg",
+    "sha256": "2f0f6828e30111835895012092595d9805e6ffc6b6244db1f214c4c824cbf931"
+  },
+  {
+    "figure": 8,
+    "file": "figures/editable/figure_08_multigrain_setup.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/multigrain_setup.svg",
+    "sha256": "cbda37b2d30872fcecb59330f231692b3bc053b93be5390e13f22758581f8445"
+  },
+  {
+    "figure": 8,
+    "file": "figures/editable/figure_08_local_shifts.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/local_shifts.svg",
+    "sha256": "a285b6f64e1be671d5ab3f61ab8baef94e76b4395d3f603f166f4150cc40a977"
+  },
+  {
+    "figure": 8,
+    "file": "figures/editable/figure_08_inplane_refinement.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/inplane_refinement.svg",
+    "sha256": "72acb6fb7ca90667c45d2c440f975d46bb8f33138f16a50bcad162984ff3b2a9"
+  },
+  {
+    "figure": 12,
+    "file": "figures/editable/figure_12_misoriented_strip.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/misoriented_strip.svg",
+    "sha256": "d0e986dc523f9e4cf4939261e8e8762d08268ec6ac79b2b40b9732fcf3c33875"
+  },
+  {
+    "figure": 13,
+    "file": "figures/editable/figure_13_twod_specimen.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/twod_specimen.svg",
+    "sha256": "6a59ebc9d2739ad0422dec98b7b6a1307ff1105c775cbc2bc4ee648b1e38a283"
+  },
+  {
+    "figure": 13,
+    "file": "figures/editable/figure_13_softening_envelope.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/softening_envelope.svg",
+    "sha256": "9e24d065af874bf9e3a47a2853941c4060f7ade8cf648eb8bb46a9b80e01296a"
+  },
+  {
+    "figure": 14,
+    "file": "figures/editable/figure_14_fesi_experiment.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_background_20261022/fesi_experiment.svg",
+    "sha256": "3140131a0abb5364ea6aba5381c4bf0b5042027d5b24dee3cbf643bbef46727c"
+  },
+  {
+    "figure": 14,
+    "file": "figures/editable/figure_14_fesi_model.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_background_20261022/fesi_model.svg",
+    "sha256": "b34fe1624fbcab8801000307d22fd3fceda6fd03a12ab6b2d612b6bc71410154"
+  },
+  {
+    "figure": 14,
+    "file": "figures/editable/figure_14_tilt_boundary.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/tilt_boundary.svg",
+    "sha256": "34c30b3b2e4cb95009a1fa28c4a65f749495498eafa5cdab1f085d3748581b74"
+  },
+  {
+    "figure": 14,
+    "file": "figures/editable/figure_14_twist_boundary.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_chapter4_20261021/twist_boundary.svg",
+    "sha256": "4bb2fa04bfb48fba2784513343ed9f1f8beb9082a046cb9dad47a01b0ed94555"
+  },
+  {
+    "figure": 16,
+    "file": "figures/editable/figure_16_mo_experiment.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_background_20261022/mo_experiment.svg",
+    "sha256": "4ee50498d61fbe42503dce42cedb550a415811bd67ccf6a2f8e8eaf7120ace28"
+  },
+  {
+    "figure": 16,
+    "file": "figures/editable/figure_16_mo_model.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_background_20261022/mo_model.svg",
+    "sha256": "a4e09ca83d55de74c4cf3472c17b68e2788dbd330f80be5de660de34695e38d1"
+  },
+  {
+    "figure": 17,
+    "file": "figures/editable/figure_17_mo_strength.svg",
+    "source": "ai_lpm/paper_writing/figures/paperB_background_20261022/mo_strength.svg",
+    "sha256": "ae98f1dec135b291fdd75b6f99d74bc2ce1bf22d29a9064475ea80060b56d05c"
+  },
+  {
+    "figure": 2,
+    "file": "figures/editable/figure_02_reaction_transfer.drawio",
+    "source": "ai_lpm/paper_writing/figures/paperB_diagram_consistency_20261025/reaction_transfer.drawio",
+    "sha256": "e4a25dc64a07ab24b4b2c968ac6181486e3cb75fa6f35964e24fb21fbe02a870"
+  }
+]

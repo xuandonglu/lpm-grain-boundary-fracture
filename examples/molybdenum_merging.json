@@ -1,0 +1,26 @@
+{
+  "family": "parallel_bicrystal",
+  "material": "Mo",
+  "method": "merging",
+  "regularization": 0.1,
+  "loading": "tension",
+  "grip_displacement": 3,
+  "geometry": {
+    "psi": 36.87,
+    "sym": 1,
+    "f": 0.2535,
+    "dpar": 0.0,
+    "W": 48.0,
+    "H": 28.0,
+    "Lz": 5.0,
+    "disc": "MoK_s10",
+    "r": 0.0
+  },
+  "solver": {
+    "start_load": 0.05,
+    "end_load": 1,
+    "load_step": 0.01,
+    "fine_step": 0.005,
+    "time_limit_seconds": 3600
+  }
+}

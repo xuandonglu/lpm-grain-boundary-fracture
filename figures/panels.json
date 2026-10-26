@@ -1,0 +1,467 @@
+[
+  {
+    "figure": 1,
+    "panel": 1,
+    "label": "(a) Merged junction",
+    "caption": "Connections between non-matching grain lattices",
+    "file": "figures/reference/figure_01_01_junction_energy.png",
+    "word_crop": {
+      "src_rect": {
+        "l": 2444,
+        "t": 3333,
+        "r": 3333,
+        "b": 5093
+      },
+      "visible_rect_px": [
+        22,
+        36,
+        870,
+        1025
+      ],
+      "content_bounds_px": [
+        32,
+        48,
+        860,
+        1013
+      ],
+      "content_margin_fractions": [
+        0.01179245283018868,
+        0.012133468149646108,
+        0.01179245283018868,
+        0.012133468149646108
+      ],
+      "source_sha256": "bea7202fccbf4435c25d26062371b4a0cd7dd76f00ad085ee280723372b23a18",
+      "original_extent_emu": [
+        1758103,
+        2109724
+      ],
+      "display_extent_emu": [
+        2057400,
+        2399471
+      ],
+      "content_physical_scale_preserved": false,
+      "separator_artifact_omitted": false,
+      "method": "Existing pixels and native crop retained; proportional enlargement for two related geometry panels."
+    }
+  },
+  {
+    "figure": 1,
+    "panel": 2,
+    "label": "(b) Ghost half-bond",
+    "caption": "Connections between non-matching grain lattices",
+    "file": "figures/reference/figure_01_02_junction_energy.png",
+    "word_crop": {
+      "src_rect": {
+        "l": 2444,
+        "t": 3426,
+        "r": 3333,
+        "b": 16296
+      },
+      "visible_rect_px": [
+        22,
+        37,
+        870,
+        904
+      ],
+      "content_bounds_px": [
+        32,
+        48,
+        860,
+        893
+      ],
+      "content_margin_fractions": [
+        0.01179245283018868,
+        0.012687427912341407,
+        0.01179245283018868,
+        0.012687427912341407
+      ],
+      "source_sha256": "49dc6cd727ceaf1ca502c9df62f3321b83abe5c538432608dffce18f1ddc51f9",
+      "original_extent_emu": [
+        1758103,
+        2109724
+      ],
+      "display_extent_emu": [
+        2057400,
+        2103486
+      ],
+      "content_physical_scale_preserved": false,
+      "separator_artifact_omitted": true,
+      "method": "Existing pixels and native crop retained; proportional enlargement for two related geometry panels."
+    }
+  },
+  {
+    "figure": 3,
+    "panel": 1,
+    "label": "",
+    "caption": "Construction of interpolation weights",
+    "file": "figures/reference/figure_03_01_patch_weights.png",
+    "word_crop": null
+  },
+  {
+    "figure": 4,
+    "panel": 1,
+    "label": "(a) Ordinary",
+    "caption": "Interpolation across cracks",
+    "file": "figures/reference/figure_04_01_method.png",
+    "word_crop": {
+      "src_rect": {
+        "l": 7222,
+        "t": 9080,
+        "r": 4000,
+        "b": 7356
+      },
+      "visible_rect_px": [
+        65,
+        79,
+        864,
+        806
+      ],
+      "content_bounds_px": [
+        75,
+        88,
+        854,
+        797
+      ],
+      "content_margin_fractions": [
+        0.012515644555694618,
+        0.012379642365887207,
+        0.012515644555694618,
+        0.012379642365887207
+      ],
+      "source_sha256": "6b82ff5ccb148934ab13925bc9f4f29ac49f9be2d3a123ea21f9448478ac9f3e",
+      "original_extent_emu": [
+        1758103,
+        1699500
+      ],
+      "display_extent_emu": [
+        1560809,
+        1420170
+      ],
+      "content_physical_scale_preserved": true,
+      "separator_artifact_omitted": false,
+      "method": "Native Word crop; source pixels and all scientific content unchanged."
+    }
+  },
+  {
+    "figure": 4,
+    "panel": 2,
+    "label": "(b) One-sided",
+    "caption": "Interpolation across cracks",
+    "file": "figures/reference/figure_04_02_method.png",
+    "word_crop": {
+      "src_rect": {
+        "l": 7222,
+        "t": 9080,
+        "r": 4000,
+        "b": 7356
+      },
+      "visible_rect_px": [
+        65,
+        79,
+        864,
+        806
+      ],
+      "content_bounds_px": [
+        75,
+        88,
+        854,
+        797
+      ],
+      "content_margin_fractions": [
+        0.012515644555694618,
+        0.012379642365887207,
+        0.012515644555694618,
+        0.012379642365887207
+      ],
+      "source_sha256": "5254a02a431edcd585932ff2ec8489a672bcfd0dc2f31c507c3c51e90faed457",
+      "original_extent_emu": [
+        1758103,
+        1699500
+      ],
+      "display_extent_emu": [
+        1560809,
+        1420170
+      ],
+      "content_physical_scale_preserved": true,
+      "separator_artifact_omitted": false,
+      "method": "Native Word crop; source pixels and all scientific content unchanged."
+    }
+  },
+  {
+    "figure": 4,
+    "panel": 3,
+    "label": "(c) Jump-enriched",
+    "caption": "Interpolation across cracks",
+    "file": "figures/reference/figure_04_03_method.png",
+    "word_crop": {
+      "src_rect": {
+        "l": 3000,
+        "t": 9080,
+        "r": 4000,
+        "b": 7356
+      },
+      "visible_rect_px": [
+        27,
+        79,
+        864,
+        806
+      ],
+      "content_bounds_px": [
+        37,
+        88,
+        854,
+        797
+      ],
+      "content_margin_fractions": [
+        0.011947431302270013,
+        0.012379642365887207,
+        0.011947431302270013,
+        0.012379642365887207
+      ],
+      "source_sha256": "3625c994edc3e44a30346899e9a358ec77b10638a1a5f2737374ed7ee7647e11",
+      "original_extent_emu": [
+        1758103,
+        1699500
+      ],
+      "display_extent_emu": [
+        1635036,
+        1420170
+      ],
+      "content_physical_scale_preserved": true,
+      "separator_artifact_omitted": false,
+      "method": "Native Word crop; source pixels and all scientific content unchanged."
+    }
+  },
+  {
+    "figure": 9,
+    "panel": 1,
+    "label": "(a) Microstructure s1",
+    "caption": "Crack propagation through transparent polycrystals",
+    "file": "figures/reference/figure_09_01_polycrystal_paths.png",
+    "word_crop": null
+  },
+  {
+    "figure": 9,
+    "panel": 2,
+    "label": "(b) Remote separation in s2",
+    "caption": "Crack propagation through transparent polycrystals",
+    "file": "figures/reference/figure_09_02_polycrystal_paths.png",
+    "word_crop": null
+  },
+  {
+    "figure": 9,
+    "panel": 3,
+    "label": "(c) Microstructure s3",
+    "caption": "Crack propagation through transparent polycrystals",
+    "file": "figures/reference/figure_09_03_polycrystal_paths.png",
+    "word_crop": null
+  },
+  {
+    "figure": 9,
+    "panel": 4,
+    "label": "(d) Microstructure s4",
+    "caption": "Crack propagation through transparent polycrystals",
+    "file": "figures/reference/figure_09_04_polycrystal_paths.png",
+    "word_crop": null
+  },
+  {
+    "figure": 11,
+    "panel": 1,
+    "label": "(a) Refined microstructure s1",
+    "caption": "Crack-tip load histories",
+    "file": "figures/reference/figure_11_01_crossing_history.png",
+    "word_crop": null
+  },
+  {
+    "figure": 11,
+    "panel": 2,
+    "label": "(b) Refined microstructure s3",
+    "caption": "Crack-tip load histories",
+    "file": "figures/reference/figure_11_02_crossing_history.png",
+    "word_crop": null
+  },
+  {
+    "figure": 6,
+    "panel": 1,
+    "label": "",
+    "caption": "Bicrystal propagation loads",
+    "file": "figures/reference/figure_06_01_bicrystal_continuum.png",
+    "word_crop": null
+  },
+  {
+    "figure": 10,
+    "panel": 1,
+    "label": "(a) Cleavage path",
+    "caption": "Continuum comparison for microstructure s1",
+    "file": "figures/reference/figure_10_01_polycrystal_continuum.png",
+    "word_crop": null
+  },
+  {
+    "figure": 10,
+    "panel": 2,
+    "label": "(b) Propagation load",
+    "caption": "Continuum comparison for microstructure s1",
+    "file": "figures/reference/figure_10_02_polycrystal_continuum.png",
+    "word_crop": null
+  },
+  {
+    "figure": 5,
+    "panel": 1,
+    "label": "(a) Crack crossing",
+    "caption": "Single-junction test geometries",
+    "file": "figures/reference/figure_05_01_single_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 5,
+    "panel": 2,
+    "label": "(b) Parallel junction",
+    "caption": "Single-junction test geometries",
+    "file": "figures/reference/figure_05_02_single_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 5,
+    "panel": 3,
+    "label": "(c) Cleavage-layer registration",
+    "caption": "Single-junction test geometries",
+    "file": "figures/reference/figure_05_03_single_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 8,
+    "panel": 1,
+    "label": "(a) Twelve-grain control",
+    "caption": "Multigrain control geometry",
+    "file": "figures/reference/figure_08_01_multigrain_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 8,
+    "panel": 2,
+    "label": "(b) Independent lattice shifts",
+    "caption": "Multigrain control geometry",
+    "file": "figures/reference/figure_08_02_multigrain_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 8,
+    "panel": 3,
+    "label": "(c) In-plane refinement",
+    "caption": "Multigrain control geometry",
+    "file": "figures/reference/figure_08_03_multigrain_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 12,
+    "panel": 1,
+    "label": "",
+    "caption": "Clamped strip for initiation tests",
+    "file": "figures/reference/figure_12_01_misorientation_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 13,
+    "panel": 1,
+    "label": "(a) Sixteen-grain specimen",
+    "caption": "Two-dimensional specimen and softening relation",
+    "file": "figures/reference/figure_13_01_twod_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 13,
+    "panel": 2,
+    "label": "(b) Ideal softening envelope",
+    "caption": "Two-dimensional specimen and softening relation",
+    "file": "figures/reference/figure_13_02_twod_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 7,
+    "panel": 1,
+    "label": "",
+    "caption": "Pair traction under rigid junction opening",
+    "file": "figures/reference/figure_07_01_junction_law.png",
+    "word_crop": null
+  },
+  {
+    "figure": 14,
+    "panel": 1,
+    "label": "(a) Wedge-loaded double cantilever",
+    "caption": "Fe–Si experimental and model configurations",
+    "file": "figures/reference/figure_14_01_bicrystal_orientation.png",
+    "word_crop": null
+  },
+  {
+    "figure": 14,
+    "panel": 2,
+    "label": "(b) Idealized K-field model",
+    "caption": "Fe–Si experimental and model configurations",
+    "file": "figures/reference/figure_14_02_bicrystal_orientation.png",
+    "word_crop": null
+  },
+  {
+    "figure": 14,
+    "panel": 3,
+    "label": "(c) Tilt boundary",
+    "caption": "Fe–Si experimental and model configurations",
+    "file": "figures/reference/figure_14_03_bicrystal_orientation.png",
+    "word_crop": null
+  },
+  {
+    "figure": 14,
+    "panel": 4,
+    "label": "(d) Twist boundary",
+    "caption": "Fe–Si experimental and model configurations",
+    "file": "figures/reference/figure_14_04_bicrystal_orientation.png",
+    "word_crop": null
+  },
+  {
+    "figure": 15,
+    "panel": 1,
+    "label": "(a) Tilt-dominated observations",
+    "caption": "Orientation dependence of cleavage transmission",
+    "file": "figures/reference/figure_15_01_fesi_comparison.png",
+    "word_crop": null
+  },
+  {
+    "figure": 15,
+    "panel": 2,
+    "label": "(b) Twist-influenced observations",
+    "caption": "Orientation dependence of cleavage transmission",
+    "file": "figures/reference/figure_15_02_fesi_comparison.png",
+    "word_crop": null
+  },
+  {
+    "figure": 16,
+    "panel": 1,
+    "label": "(a) Four-point bending experiment",
+    "caption": "Mo bicrystal experiment and model",
+    "file": "figures/reference/figure_16_01_mo_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 16,
+    "panel": 2,
+    "label": "(b) Symmetric-tilt tensile strip",
+    "caption": "Mo bicrystal experiment and model",
+    "file": "figures/reference/figure_16_02_mo_setup.png",
+    "word_crop": null
+  },
+  {
+    "figure": 17,
+    "panel": 1,
+    "label": "",
+    "caption": "Misorientation dependence of Mo fracture strength",
+    "file": "figures/reference/figure_17_01_mo_strength_plot.png",
+    "word_crop": null
+  },
+  {
+    "figure": 2,
+    "panel": 1,
+    "label": "",
+    "caption": "Conservative reaction transfer",
+    "file": "figures/reference/figure_02_01_reaction_transfer.png",
+    "word_crop": null
+  }
+]

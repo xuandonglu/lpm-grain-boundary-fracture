@@ -1,0 +1,22 @@
+# Qiao and Argon (2003), Mechanics of Materials 35, 313-331, Table 2. DOI:10.1016/S0167-6636(02)00284-3.
+# Fe-3.4Si bicrystals; double-cantilever-beam test; -20 deg C. Angles converted to degrees.
+# KGB_over_KA is the measured boundary-crossing toughness normalized by single-crystal cleavage toughness.
+# Numerical transcription of the published table; 17 specimens. See docs/DATA.md for comparison scope.
+sample,tilt_deg,twist_deg,KGB_over_KA
+1,10.0,32.0,1.461
+2,12.0,3.0,1.049
+3,19.0,14.0,1.168
+4,9.0,21.0,1.226
+5,8.0,19.0,1.192
+6,7.0,42.1,1.575
+7,8.0,4.0,1.042
+8,34.0,12.0,1.233
+9,13.1,26.1,1.283
+10,23.0,40.0,1.602
+11,3.0,3.0,1.036
+12,22.1,17.0,1.225
+13,12.0,13.0,1.141
+14,21.0,26.1,1.404
+15,28.1,14.0,1.204
+16,30.0,4.0,1.121
+17,16.0,31.1,1.425

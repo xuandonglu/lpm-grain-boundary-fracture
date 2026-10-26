@@ -1,0 +1,156 @@
+{
+  "cross/zero/plain": {
+    "nbonds": 500,
+    "bonds_per_area": 5.882352941176471,
+    "stiffness": 318.4941176470589,
+    "peak": 26.175714434645275,
+    "delta_peak": 0.20650000000000002,
+    "energy": 16.71043977526424,
+    "relative_to_bulk": {
+      "bonds_per_area": 1.0,
+      "stiffness": 1.0,
+      "peak": 1.0,
+      "energy": 1.0
+    }
+  },
+  "cross/s1/plain": {
+    "nbonds": 85,
+    "bonds_per_area": 1.0,
+    "stiffness": 57.043954151324385,
+    "peak": 6.899186831384005,
+    "delta_peak": 0.3215,
+    "energy": 5.876417978433993,
+    "relative_to_bulk": {
+      "bonds_per_area": 0.16999999999999998,
+      "stiffness": 0.1791052047452191,
+      "peak": 0.26357205449385857,
+      "energy": 0.35166147973751155
+    }
+  },
+  "cross/s1/emc": {
+    "nbonds": 85,
+    "bonds_per_area": 1.0,
+    "stiffness": 57.043954151324385,
+    "peak": 11.782341166503747,
+    "delta_peak": 0.541,
+    "energy": 16.860670194003514,
+    "relative_to_bulk": {
+      "bonds_per_area": 0.16999999999999998,
+      "stiffness": 0.1791052047452191,
+      "peak": 0.4501249123847808,
+      "energy": 1.0089902133492412
+    }
+  },
+  "cross/sq/plain": {
+    "nbonds": 85,
+    "bonds_per_area": 1.0,
+    "stiffness": 53.82192648212484,
+    "peak": 6.790099660401116,
+    "delta_peak": 0.331,
+    "energy": 5.876417978433993,
+    "relative_to_bulk": {
+      "bonds_per_area": 0.16999999999999998,
+      "stiffness": 0.16898876148716793,
+      "peak": 0.25940455903713455,
+      "energy": 0.35166147973751155
+    }
+  },
+  "cross/sq/emc": {
+    "nbonds": 85,
+    "bonds_per_area": 1.0,
+    "stiffness": 53.82192648212484,
+    "peak": 11.647514082856373,
+    "delta_peak": 0.5555,
+    "energy": 16.860670194003514,
+    "relative_to_bulk": {
+      "bonds_per_area": 0.16999999999999998,
+      "stiffness": 0.16898876148716793,
+      "peak": 0.4449740660159451,
+      "energy": 1.0089902133492412
+    }
+  },
+  "par2/zero/plain": {
+    "nbonds": 850,
+    "bonds_per_area": 5.964912280701754,
+    "stiffness": 322.0736842105264,
+    "peak": 26.333581841128908,
+    "delta_peak": 0.20500000000000002,
+    "energy": 16.654480089497067,
+    "relative_to_bulk": {
+      "bonds_per_area": 1.0,
+      "stiffness": 1.0,
+      "peak": 1.0,
+      "energy": 1.0
+    }
+  },
+  "par2/s1/plain": {
+    "nbonds": 285,
+    "bonds_per_area": 2.0,
+    "stiffness": 125.55104838188872,
+    "peak": 7.9693676868236265,
+    "delta_peak": 0.20550000000000002,
+    "energy": 7.234068808229282,
+    "relative_to_bulk": {
+      "bonds_per_area": 0.33529411764705885,
+      "stiffness": 0.3898208842788321,
+      "peak": 0.3026313600217016,
+      "energy": 0.434361731459354
+    }
+  },
+  "par2/s1/emc": {
+    "nbonds": 285,
+    "bonds_per_area": 2.0,
+    "stiffness": 125.55104838188872,
+    "peak": 12.741496746935281,
+    "delta_peak": 0.32,
+    "energy": 17.050863699563372,
+    "relative_to_bulk": {
+      "bonds_per_area": 0.33529411764705885,
+      "stiffness": 0.3898208842788321,
+      "peak": 0.48384974075327153,
+      "energy": 1.0238004193427976
+    }
+  },
+  "par0/zero/plain": {
+    "nbonds": 850,
+    "bonds_per_area": 5.964912280701754,
+    "stiffness": 322.07368421052644,
+    "peak": 26.333581841128908,
+    "delta_peak": 0.20500000000000002,
+    "energy": 16.654480089497067,
+    "relative_to_bulk": {
+      "bonds_per_area": 1.0,
+      "stiffness": 1.0,
+      "peak": 1.0,
+      "energy": 1.0
+    }
+  },
+  "par0/s1/plain": {
+    "nbonds": 285,
+    "bonds_per_area": 2.0,
+    "stiffness": 125.55104838188875,
+    "peak": 7.969367686823626,
+    "delta_peak": 0.20550000000000002,
+    "energy": 7.234068808229282,
+    "relative_to_bulk": {
+      "bonds_per_area": 0.33529411764705885,
+      "stiffness": 0.3898208842788321,
+      "peak": 0.3026313600217016,
+      "energy": 0.434361731459354
+    }
+  },
+  "par0/s1/emc": {
+    "nbonds": 285,
+    "bonds_per_area": 2.0,
+    "stiffness": 125.55104838188875,
+    "peak": 12.74149674693528,
+    "delta_peak": 0.32,
+    "energy": 17.050863699563372,
+    "relative_to_bulk": {
+      "bonds_per_area": 0.33529411764705885,
+      "stiffness": 0.3898208842788321,
+      "peak": 0.4838497407532715,
+      "energy": 1.0238004193427976
+    }
+  }
+}

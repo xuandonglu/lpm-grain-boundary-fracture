@@ -1,0 +1,9 @@
+Model boundary,"Experimental (tilt, twist), deg",Measured ratio,Ghost coupling,Energy-matched merging
+Tilt 3°,"(3, 3); #11",1.036,1.033,1.690
+Tilt 8°,"(8, 4); #7",1.042,1.033,1.752
+Tilt 12°,"(12, 3); #2",1.049,0.989,1.846
+Tilt 22.6°,—,—,0.994,Not calculated
+Tilt 28.1°,"(30, 4); #16",1.121,1.011,1.294
+Twist 22.6°,"(8,19); (9,21)",1.192–1.226,1.025,No crossing
+Twist 28.1°,"(13.1,26.1); #9",1.283,1.026,Not calculated
+Twist 36.9°,"(16,31.1); (10,32); (7,42.1)",1.425–1.575,1.039,1.298

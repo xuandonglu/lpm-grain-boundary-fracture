@@ -1,0 +1,4 @@
+RESULT setup ver=2 N=13375 bonds=182565 (ghost 2985, UBER 114305) supports=227340 free=36915 nnz=5591016 T=2.60357 l=0.0482507 0.0402502 kg=8.19e-06 W=48 H=28 y0=-0.25 threads=2 tol=3.16e-07 setup=0.11s
+RESULT first_separation lam=0.24049
+RESULT cap_relaxed_solves=0 jumps_accepted=0 ca_updates=1 ca_changed=45 enriched=90 enriched_fallback=0 (cap 0 cond 0)
+RESULT done final lam=0.24049 nsep=2981 steps=26 solves=245 factorisations=0 cgs_reuse=0 relax_steps=0 rejects=0 backoffs=46 cg_its=9699 switches=0 exact_in_tn=0 flow_steps=0 energy_tn=0 t_solve=16 t_assemble=12 time=29.8 s stop=3
